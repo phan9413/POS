@@ -1,0 +1,183 @@
+<!doctype html>
+<html>
+<head>
+</head>
+<body class="GrGrayPage"><!--Alpha Five Temporary Code End -->
+<a href="login.a5w">Click Here to login</a><br ><br >
+
+
+
+<%a5 
+dim found as l
+dim pUser as p
+
+
+
+a5ws_logged_in_user_values(pUser,request,session)
+dim machine_id as c
+conn = "::Name::OgawaA5"
+table = "security_key"
+filter = "security_key = '" + session.macaddress + "'"
+result = "machine_id"
+found = .f.
+
+machine_id = sql_lookup(conn, table, filter, result)
+if machine_id = null_value() then
+	machine_id = ""
+end if
+
+if trim(machine_id) <> "" then
+	session.logindate = date()
+
+	Dim cn as sql::connection
+	dim flag as l
+	
+	flag = cn.open(conn)
+	if flag then
+		dim sqlCommand as c
+		dim sqlCommand1 as c
+
+		dim rs as sql::ResultSet
+		Dim args as SQL::Arguments	
+		dim dis_active_from as d
+		dim dis_active_to as d
+		dim g_date as d
+		dim i_date as d
+
+		'sqlCommand = "select * from security_key_dtl where machine_id = :machine_id and "
+		'sqlCommand = sqlCommand + "date_from <= :today and date_to >= :today order by date_from desc, date_to"
+		sqlCommand = "select * from security_key where machine_id = :machine_id"
+		args.Add("machine_id", machine_id)
+		args.Add("today", session.logindate)
+		flag = cn.Execute(sqlCommand, args)
+		if flag then
+			rs = cn.ResultSet
+			flag = rs.nextRow()
+			if flag then
+				session.outlet = rs.data("outlet_code")
+				session.outlettype = rs.data("outlet_type")
+				session.logintype = rs.data("outlet_type")
+				session.outletname = rs.data("outlet_name")
+				session.isdefault = rs.data("isdefault")
+				session.loginoutlet = rs.data("outlet_code")
+				session.userid = pUser.userid
+				session.portal_type = portal_type
+				found = .t.
+			end if
+		end if
+
+		sqlCommand1 = "select * from gst_date where sk_hdr = 1"
+		flag = cn.Execute(sqlCommand1, args)
+		if flag then
+			rs = cn.ResultSet
+			flag = rs.nextRow()
+			if flag then
+				g_date = convert_type(rs.data("gst_date"),"d")
+				i_date = convert_type(rs.data("inactive_date"),"d")
+				session.gst_date = year(g_date) + "-" + month(g_date) + "-" + day(g_date)
+				session.tax = rs.data("tax")
+				session.return_tax_code = rs.data("return_tax_code")
+				session.tax_code = rs.data("tax_code")
+				session.return_tax_rate = rs.data("return_tax_rate")
+				session.inactive_date = year(i_date) + "-" + month(i_date) + "-" + day(i_date)
+				session.deposit = rs.data("deposit")
+				session.oversea_tax_code = rs.data("oversea_tax_code")
+				session.oversea_tax_rate = rs.data("oversea_tax_rate")
+				session.country = rs.data("country")
+				session.gst_date2 = rs.data("gst_date2")
+				session.tax2 = rs.data("tax2")
+				found = .t.
+			end if
+		end if
+
+		dim isoutlet as l = .f.
+		
+		
+		if session.outlettype = "OUTLET" then
+			isoutlet = .t.
+		end if
+		
+		if session.outlettype = "ROAD SHOW" then
+			isoutlet = .t.	
+		end if
+		
+		if session.outlettype = "CONSIGNMENT COUNTER" then
+			isoutlet = .t.	
+		end if
+		
+		if session.outlettype = "MOBILE TEAM" then
+			isoutlet = .t.	
+		end if
+
+		if session.outlettype = "PERMANENT COUNTER" then
+			isoutlet = .t.	
+		end if
+		
+
+		? session.portal_type
+		if isoutlet then
+			sqlCommand = "select * from active_button where button_description = 'DISCOUNT' and is_backend = 'NO'"
+			'args.Add("machine_id", machine_id)
+			'args.Add("today", session.logindate)
+			flag = cn.Execute(sqlCommand)
+			if flag then
+				rs = cn.ResultSet
+				flag = rs.nextRow()
+				if flag then
+					dis_active_from = convert_type(rs.data("active_from"),"d")
+					dis_active_to = convert_type(rs.data("active_to"),"d")
+					session.dis_active_from = year(dis_active_from) + "-" + month(dis_active_from) + "-" + day(dis_active_from)
+					session.dis_active_to = year(dis_active_to) + "-" + month(dis_active_to) + "-" + day(dis_active_to)
+					session.dis_status = rs.data("status")
+					found = .t.
+				end if
+			end if
+			response.redirect("index_ux.a5w")	
+		else
+			sqlCommand = "select * from active_button where button_description = 'DISCOUNTBACKEND' and is_backend = 'YES'"
+			'args.Add("machine_id", machine_id)
+			'args.Add("today", session.logindate)
+			flag = cn.Execute(sqlCommand)
+			if flag then
+				rs = cn.ResultSet
+				flag = rs.nextRow()
+				if flag then
+					dis_active_from = convert_type(rs.data("active_from"),"d")
+					dis_active_to = convert_type(rs.data("active_to"),"d")
+					session.dis_active_from = year(dis_active_from) + "-" + month(dis_active_from) + "-" + day(dis_active_from)
+					session.dis_active_to = year(dis_active_to) + "-" + month(dis_active_to) + "-" + day(dis_active_to)
+					session.dis_status = rs.data("status")
+					found = .t.
+				end if
+			end if
+			response.redirect("index.a5w")
+		end if
+		
+
+	end if
+
+
+
+end if
+'if eval_valid("pUser.userid") = .T. then
+'	?"User id: " + pUser.userid +"<br>"
+'end if
+'if eval_valid("pUser.email") = .T. then
+'	?"User Email: " + pUser.email +"<br>"
+'end if
+
+if .not. found then
+	'sent to logout if security code not match
+	a5ws_logoutuser(session, request, response)
+	? "Security Key is not valid.<br />Please contact your system administrator."
+	end
+end if
+
+? session.outlet + "-" + session.outletname + " [" + session.userid + "]"
+
+
+%>
+
+
+
+</body></html>

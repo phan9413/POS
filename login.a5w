@@ -1,0 +1,608 @@
+<!doctype html public "-//w3c//dtd html 4.0 transitional//en">
+<html><head><title></title>
+<meta content="text/html; charset=unicode" http-equiv=Content-Type><meta name=GENERATOR content="MSHTML 9.00.8112.16561"></head>
+<body>
+<div align="center">
+  Welcome to Ogawa Portal! <%a5
+dim temp as c = ""
+
+'response.add_cookie("ft", "", 0)
+temp = request.cookies.OgawaSecurity
+
+'if eval_valid("request.cookies.myname") then  // always true
+'    ? "<P>The cookie is "+request.cookies.PST+"</P>"
+'else
+'    response.add_cookie("PST","greg",0)
+'end if
+
+
+if temp = "" then	
+	temp = time("yyyyMMdd0h0m0s3", now(.T.))
+	dim myCookie as System::Web::HttpCookie = new System::Web::HttpCookie("OgawaSecurity")
+    myCookie.Value = temp;
+    myCookie.Expires = date() + 365000
+    Response.Cookies.Set(myCookie)
+'else
+	'temp = request.cookies.OgawaSecurity
+end if
+
+session.macaddress = temp
+
+
+
+temp = request.cookies.OgawaLanguage
+if temp = "" then	
+	temp = "default"
+	dim myCookiel as System::Web::HttpCookie = new System::Web::HttpCookie("OgawaLanguage")
+    myCookiel.Value = temp;
+    myCookiel.Expires = date() + 365000
+    Response.Cookies.Set(myCookiel)
+'else
+	'temp = request.cookies.OgawaSecurity
+end if
+session.language = temp
+
+%><%a5
+'The componentAlias MUST be UNIQUE for each component on the page. It must not have spaces in the name. Keep name as short as possible
+dim componentAlias as c 
+componentAlias = "LOGIN"
+Delete tmpl_LOGIN
+DIM tmpl_LOGIN as P
+tmpl_LOGIN = a5w_load_component("login") 'SYSTEM GENERATED COMMENT - PLEASE DO NOT REMOVE (LOAD:login)
+'Following code allows you to override settings in the saved component, and specify the component alias (componentName property).
+'Tip: Keep the componentName property short because this name is used in page URLs, and it will help keep the URLs short.
+'Each component on a page must have a unique alias (componentName property).
+with tmpl_LOGIN
+	componentName = "LOGIN"
+end with 
+'=======================================compute the HTML for the Component=======================================
+delete x_LOGIN
+dim x_LOGIN as p
+x_LOGIN = a5w_run_Component(tmpl_LOGIN)  'SYSTEM GENERATED COMMENT - PLEASE DO NOT REMOVE (RUN:tmpl_LOGIN) (EDIT:login)
+'=============================================================================================================
+if x_LOGIN.RedirectURL <> "" then 
+	response.redirect(x_LOGIN.redirectURL)
+	end
+end if 
+?x_LOGIN.Output.Head.JavaScript
+?x_LOGIN.Output.Head.CSS_Link
+%><!--Alpha Five Temporary Code Start - Will be automatically removed when page is published --><!--CSS for tmpl_LOGIN -->
+<link rel="stylesheet" type="text/css" href="file:///C:/Program Files (x86)/a5V12/css/GrGray/style.css"><!--Alpha Five Temporary Code End -->
+
+<meta name="generator" content="Alpha Anywhere HTML Editor Version 12 Build 1856-4237"><!-- must use in order to make XP Themes render -->
+<meta HTTP-EQUIV="MSThemeCompatible" content="Yes" ><meta http-equiv="X-UA-Compatible" content="IE=edge" /> 
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" >
+<meta name="apple-mobile-web-app-capable" content="yes" ><%a5 ?x_LOGIN.Output.Body.Body_Tag %><!--Alpha Five Temporary Code Start - Will be automatically removed when page is published --><!--Body Tag for tmpl_LOGIN --><%a5
+if portal_color = "Live" then
+? "<body class=GrGrayPage bgColor=#ffffff>"
+else
+? "<body class=GrGrayPage bgColor=#00ffff>"
+end if
+%>
+
+<p align=center><img src="OGAWASplash.png" ></p>
+      <p align=center><%A5 ?x_LOGIN.Output.Body.Login_Errors %></p>
+
+<p align=center><%A5 ?x_LOGIN.Output.Body.Login_HTML %> 
+</p>
+      <p align=center><%a5
+? "<P>Security Address : " + session.macaddress + "</P>"
+%></p>
+
+<p align=center>
+</p>
+<p align=center> 
+</p>
+<div></div></div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</body></html>
