@@ -1,0 +1,56 @@
+<!doctype html>
+<html>
+<head>
+
+
+<%a5
+Delete tmpl_SALES_ORDER_DRA
+DIM tmpl_SALES_ORDER_DRA as P
+tmpl_SALES_ORDER_DRA = a5w_load_component("sales_order_draft") ''SYSTEM GENERATED COMMENT - PLEASE DO NOT REMOVE (LOAD:sales_order_draft)
+
+'Override settings start -----------------------------------------
+with tmpl_SALES_ORDER_DRA
+.alias = "SALES_ORDER_DRA"
+_dialogFilename = "sales_order_draft"
+end with 
+'Override settings end -----------------------------------------
+
+delete x_SALES_ORDER_DRA
+dim x_SALES_ORDER_DRA as p
+x_SALES_ORDER_DRA = a5w_run_Component(tmpl_SALES_ORDER_DRA) 'SYSTEM GENERATED COMMENT - PLEASE DO NOT REMOVE (RUN:tmpl) (EDIT:sales_order_draft)
+
+?x_SALES_ORDER_DRA.Output.Head.JavaScript
+?x_SALES_ORDER_DRA.Output.Head.CSS_Link
+
+?x_SALES_ORDER_DRA.Output.Head.Title 
+%>
+
+
+<!--Alpha Five Temporary Code Start - Will be automatically removed when page is published -->
+<!--CSS for tmpl -->
+<link rel="stylesheet" type="text/css" href="file:///C:/Program Files (x86)/a5V12/css/iOS/style.css">
+<!--Alpha Five Temporary Code End -->
+
+
+<meta name="generator" content="Alpha Anywhere HTML Editor Version 12 Build 2128-4292">
+<!-- must use in order to make XP Themes render -->
+<meta HTTP-EQUIV="MSThemeCompatible" content="Yes" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+<meta name="apple-mobile-web-app-capable" content="yes" />
+
+<title></title>
+</head>
+
+<%a5 ?x_SALES_ORDER_DRA.Output.Body.Body_tag %>
+<!--Alpha Five Temporary Code Start - Will be automatically removed when page is published -->
+<!--Body Tag for tmpl -->
+<body class="iOSPage">
+<!--Alpha Five Temporary Code End -->	
+
+
+<p>&nbsp;</p>
+<%a5 ?x_SALES_ORDER_DRA.Output.Body.Dialog2_HTML %>
+
+</body></html>

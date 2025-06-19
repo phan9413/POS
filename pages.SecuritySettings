@@ -1,0 +1,865 @@
+<page<[1]<page="*.js">
+<action="allow">
+<groups="">
+>
+<[2]<page="*.css">
+<action="allow">
+<groups="">
+>
+<[3]<page="*.bmp">
+<action="allow">
+<groups="">
+>
+<[4]<page="*.jpg">
+<action="allow">
+<groups="">
+>
+<[5]<page="*.jpeg">
+<action="allow">
+<groups="">
+>
+<[6]<page="*.gif">
+<action="allow">
+<groups="">
+>
+<[7]<page="*.ico">
+<action="allow">
+<groups="">
+>
+<[8]<page="*.png">
+<action="allow">
+<groups="">
+>
+<[9]<page="*.a5image">
+<action="allow">
+<groups="">
+>
+<[10]<page="login.a5w">
+<action="allow">
+<groups="">
+>
+<[11]<page="login_processing.a5w">
+<action="allow">
+<groups="">
+>
+<[12]<page="logout.a5w">
+<action="allow">
+<groups="">
+>
+<[13]<page="index.a5w">
+<action="login">
+<groups="5b66c7f9329a4e098b991f86f36a620e,Administrators,8aa79376fcfd45a3aafc06ad57c8130f,Back-Office Super,f88e055164974b2c9673eec691112f8b,Back-Office User,078a44a3eadd43778f2193c7544235f5,HR Super,340150b8a9ae4de7a96d49a34e2f1b12,HR User,5d18766426fa41f4ae082d859c4d0576,Inventory Super,ac67f3503a4647dbaa7854f6fc5fb1fc,Inventory User,0fac4c9811ac449d819f1a7650154a5e,Logistic Super,c53e97b5a64c4e3e8fd10a7c90e2781e,Logistic User,160b79ab6130426f834a08819a1da8c1,Outlet Super,36e2ab59d0554eb9adece4c581eacb0c,Outlet User,3242ad7980ae4b299f89c7ebe1abde31,Roadshow Super,3772bab57dff41ca8183e0fe83ead231,Roadshow User,9936345066614e4e8b3b328fe52d923d,Servicing Super,295730d6e6cb40dcb66d350418db222b,Servicing User,3a0466cba31e4a0593aa535a99034e67,Warehouse Super,90a41014e38043e08146f3a0820f7198,Warehouse User">
+>
+<[14]<page="sales_order_new.a5w">
+<action="login">
+<groups="5b66c7f9329a4e098b991f86f36a620e,Administrators,8aa79376fcfd45a3aafc06ad57c8130f,Back-Office Super,f88e055164974b2c9673eec691112f8b,Back-Office User,078a44a3eadd43778f2193c7544235f5,HR Super,340150b8a9ae4de7a96d49a34e2f1b12,HR User,5d18766426fa41f4ae082d859c4d0576,Inventory Super,ac67f3503a4647dbaa7854f6fc5fb1fc,Inventory User,0fac4c9811ac449d819f1a7650154a5e,Logistic Super,c53e97b5a64c4e3e8fd10a7c90e2781e,Logistic User,160b79ab6130426f834a08819a1da8c1,Outlet Super,36e2ab59d0554eb9adece4c581eacb0c,Outlet User,3242ad7980ae4b299f89c7ebe1abde31,Roadshow Super,3772bab57dff41ca8183e0fe83ead231,Roadshow User,9936345066614e4e8b3b328fe52d923d,Servicing Super,295730d6e6cb40dcb66d350418db222b,Servicing User,3a0466cba31e4a0593aa535a99034e67,Warehouse Super,90a41014e38043e08146f3a0820f7198,Warehouse User">
+>
+<[15]<page="sales_order_new.a5wcmp">
+<action="login">
+<groups="5b66c7f9329a4e098b991f86f36a620e,Administrators,8aa79376fcfd45a3aafc06ad57c8130f,Back-Office Super,f88e055164974b2c9673eec691112f8b,Back-Office User,078a44a3eadd43778f2193c7544235f5,HR Super,340150b8a9ae4de7a96d49a34e2f1b12,HR User,5d18766426fa41f4ae082d859c4d0576,Inventory Super,ac67f3503a4647dbaa7854f6fc5fb1fc,Inventory User,0fac4c9811ac449d819f1a7650154a5e,Logistic Super,c53e97b5a64c4e3e8fd10a7c90e2781e,Logistic User,160b79ab6130426f834a08819a1da8c1,Outlet Super,36e2ab59d0554eb9adece4c581eacb0c,Outlet User,3242ad7980ae4b299f89c7ebe1abde31,Roadshow Super,3772bab57dff41ca8183e0fe83ead231,Roadshow User,9936345066614e4e8b3b328fe52d923d,Servicing Super,295730d6e6cb40dcb66d350418db222b,Servicing User,3a0466cba31e4a0593aa535a99034e67,Warehouse Super,90a41014e38043e08146f3a0820f7198,Warehouse User">
+>
+<[16]<page="customers.a5wcmp">
+<action="login">
+<groups="5b66c7f9329a4e098b991f86f36a620e,Administrators,8aa79376fcfd45a3aafc06ad57c8130f,Back-Office Super,f88e055164974b2c9673eec691112f8b,Back-Office User,078a44a3eadd43778f2193c7544235f5,HR Super,340150b8a9ae4de7a96d49a34e2f1b12,HR User,5d18766426fa41f4ae082d859c4d0576,Inventory Super,ac67f3503a4647dbaa7854f6fc5fb1fc,Inventory User,0fac4c9811ac449d819f1a7650154a5e,Logistic Super,c53e97b5a64c4e3e8fd10a7c90e2781e,Logistic User,9936345066614e4e8b3b328fe52d923d,Marketing User,160b79ab6130426f834a08819a1da8c1,Outlet Super,36e2ab59d0554eb9adece4c581eacb0c,Outlet User,3242ad7980ae4b299f89c7ebe1abde31,Roadshow Super,3772bab57dff41ca8183e0fe83ead231,Roadshow User,295730d6e6cb40dcb66d350418db222b,Servicing User,3a0466cba31e4a0593aa535a99034e67,Warehouse Super,90a41014e38043e08146f3a0820f7198,Warehouse User">
+>
+<[17]<page="sbo_salesitem.a5wcmp">
+<action="login">
+<groups="5b66c7f9329a4e098b991f86f36a620e,Administrators,8aa79376fcfd45a3aafc06ad57c8130f,Back-Office Super,f88e055164974b2c9673eec691112f8b,Back-Office User,078a44a3eadd43778f2193c7544235f5,HR Super,340150b8a9ae4de7a96d49a34e2f1b12,HR User,5d18766426fa41f4ae082d859c4d0576,Inventory Super,ac67f3503a4647dbaa7854f6fc5fb1fc,Inventory User,0fac4c9811ac449d819f1a7650154a5e,Logistic Super,c53e97b5a64c4e3e8fd10a7c90e2781e,Logistic User,160b79ab6130426f834a08819a1da8c1,Outlet Super,36e2ab59d0554eb9adece4c581eacb0c,Outlet User,3242ad7980ae4b299f89c7ebe1abde31,Roadshow Super,3772bab57dff41ca8183e0fe83ead231,Roadshow User,9936345066614e4e8b3b328fe52d923d,Servicing Super,295730d6e6cb40dcb66d350418db222b,Servicing User,3a0466cba31e4a0593aa535a99034e67,Warehouse Super,90a41014e38043e08146f3a0820f7198,Warehouse User">
+>
+<[18]<page="sbo_stockitem.a5wcmp">
+<action="login">
+<groups="5b66c7f9329a4e098b991f86f36a620e,Administrators,8aa79376fcfd45a3aafc06ad57c8130f,Back-Office Super,f88e055164974b2c9673eec691112f8b,Back-Office User,078a44a3eadd43778f2193c7544235f5,HR Super,340150b8a9ae4de7a96d49a34e2f1b12,HR User,5d18766426fa41f4ae082d859c4d0576,Inventory Super,ac67f3503a4647dbaa7854f6fc5fb1fc,Inventory User,0fac4c9811ac449d819f1a7650154a5e,Logistic Super,c53e97b5a64c4e3e8fd10a7c90e2781e,Logistic User,160b79ab6130426f834a08819a1da8c1,Outlet Super,36e2ab59d0554eb9adece4c581eacb0c,Outlet User,3242ad7980ae4b299f89c7ebe1abde31,Roadshow Super,3772bab57dff41ca8183e0fe83ead231,Roadshow User,9936345066614e4e8b3b328fe52d923d,Servicing Super,295730d6e6cb40dcb66d350418db222b,Servicing User,3a0466cba31e4a0593aa535a99034e67,Warehouse Super,90a41014e38043e08146f3a0820f7198,Warehouse User">
+>
+<[19]<page="index.a5wcmp">
+<action="login">
+<groups="5b66c7f9329a4e098b991f86f36a620e,Administrators,8aa79376fcfd45a3aafc06ad57c8130f,Back-Office Super,f88e055164974b2c9673eec691112f8b,Back-Office User,078a44a3eadd43778f2193c7544235f5,HR Super,340150b8a9ae4de7a96d49a34e2f1b12,HR User,5d18766426fa41f4ae082d859c4d0576,Inventory Super,ac67f3503a4647dbaa7854f6fc5fb1fc,Inventory User,0fac4c9811ac449d819f1a7650154a5e,Logistic Super,c53e97b5a64c4e3e8fd10a7c90e2781e,Logistic User,9936345066614e4e8b3b328fe52d923d,Servicing Super,295730d6e6cb40dcb66d350418db222b,Servicing User,3a0466cba31e4a0593aa535a99034e67,Warehouse Super,90a41014e38043e08146f3a0820f7198,Warehouse User">
+>
+<[20]<page="sales_order_new_checkout.a5wcmp">
+<action="login">
+<groups="5b66c7f9329a4e098b991f86f36a620e,Administrators,8aa79376fcfd45a3aafc06ad57c8130f,Back-Office Super,f88e055164974b2c9673eec691112f8b,Back-Office User,078a44a3eadd43778f2193c7544235f5,HR Super,340150b8a9ae4de7a96d49a34e2f1b12,HR User,5d18766426fa41f4ae082d859c4d0576,Inventory Super,ac67f3503a4647dbaa7854f6fc5fb1fc,Inventory User,0fac4c9811ac449d819f1a7650154a5e,Logistic Super,c53e97b5a64c4e3e8fd10a7c90e2781e,Logistic User,160b79ab6130426f834a08819a1da8c1,Outlet Super,36e2ab59d0554eb9adece4c581eacb0c,Outlet User,3242ad7980ae4b299f89c7ebe1abde31,Roadshow Super,3772bab57dff41ca8183e0fe83ead231,Roadshow User,9936345066614e4e8b3b328fe52d923d,Servicing Super,295730d6e6cb40dcb66d350418db222b,Servicing User,3a0466cba31e4a0593aa535a99034e67,Warehouse Super,90a41014e38043e08146f3a0820f7198,Warehouse User">
+>
+<[21]<page="delivery.a5wcmp">
+<action="login">
+<groups="5b66c7f9329a4e098b991f86f36a620e,Administrators,8aa79376fcfd45a3aafc06ad57c8130f,Back-Office Super,f88e055164974b2c9673eec691112f8b,Back-Office User,078a44a3eadd43778f2193c7544235f5,HR Super,340150b8a9ae4de7a96d49a34e2f1b12,HR User,5d18766426fa41f4ae082d859c4d0576,Inventory Super,ac67f3503a4647dbaa7854f6fc5fb1fc,Inventory User,0fac4c9811ac449d819f1a7650154a5e,Logistic Super,c53e97b5a64c4e3e8fd10a7c90e2781e,Logistic User,9936345066614e4e8b3b328fe52d923d,Marketing User,160b79ab6130426f834a08819a1da8c1,Outlet Super,36e2ab59d0554eb9adece4c581eacb0c,Outlet User,3242ad7980ae4b299f89c7ebe1abde31,Roadshow Super,3772bab57dff41ca8183e0fe83ead231,Roadshow User,295730d6e6cb40dcb66d350418db222b,Servicing User,3a0466cba31e4a0593aa535a99034e67,Warehouse Super,90a41014e38043e08146f3a0820f7198,Warehouse User">
+>
+<[22]<page="delivery_pick_order.a5wcmp">
+<action="login">
+<groups="5b66c7f9329a4e098b991f86f36a620e,Administrators,8aa79376fcfd45a3aafc06ad57c8130f,Back-Office Super,f88e055164974b2c9673eec691112f8b,Back-Office User,078a44a3eadd43778f2193c7544235f5,HR Super,340150b8a9ae4de7a96d49a34e2f1b12,HR User,5d18766426fa41f4ae082d859c4d0576,Inventory Super,ac67f3503a4647dbaa7854f6fc5fb1fc,Inventory User,0fac4c9811ac449d819f1a7650154a5e,Logistic Super,c53e97b5a64c4e3e8fd10a7c90e2781e,Logistic User,9936345066614e4e8b3b328fe52d923d,Marketing User,160b79ab6130426f834a08819a1da8c1,Outlet Super,36e2ab59d0554eb9adece4c581eacb0c,Outlet User,3242ad7980ae4b299f89c7ebe1abde31,Roadshow Super,3772bab57dff41ca8183e0fe83ead231,Roadshow User,295730d6e6cb40dcb66d350418db222b,Servicing User,3a0466cba31e4a0593aa535a99034e67,Warehouse Super,90a41014e38043e08146f3a0820f7198,Warehouse User">
+>
+<[23]<page="logistic.a5wcmp">
+<action="login">
+<groups="5b66c7f9329a4e098b991f86f36a620e,Administrators,8aa79376fcfd45a3aafc06ad57c8130f,Back-Office Super,f88e055164974b2c9673eec691112f8b,Back-Office User,078a44a3eadd43778f2193c7544235f5,HR Super,340150b8a9ae4de7a96d49a34e2f1b12,HR User,5d18766426fa41f4ae082d859c4d0576,Inventory Super,ac67f3503a4647dbaa7854f6fc5fb1fc,Inventory User,0fac4c9811ac449d819f1a7650154a5e,Logistic Super,c53e97b5a64c4e3e8fd10a7c90e2781e,Logistic User,160b79ab6130426f834a08819a1da8c1,Outlet Super,36e2ab59d0554eb9adece4c581eacb0c,Outlet User,3242ad7980ae4b299f89c7ebe1abde31,Roadshow Super,3772bab57dff41ca8183e0fe83ead231,Roadshow User,9936345066614e4e8b3b328fe52d923d,Servicing Super,295730d6e6cb40dcb66d350418db222b,Servicing User,3a0466cba31e4a0593aa535a99034e67,Warehouse Super,90a41014e38043e08146f3a0820f7198,Warehouse User">
+>
+<[24]<page="sales_order_draft.a5wcmp">
+<action="login">
+<groups="5b66c7f9329a4e098b991f86f36a620e,Administrators,8aa79376fcfd45a3aafc06ad57c8130f,Back-Office Super,f88e055164974b2c9673eec691112f8b,Back-Office User,078a44a3eadd43778f2193c7544235f5,HR Super,340150b8a9ae4de7a96d49a34e2f1b12,HR User,5d18766426fa41f4ae082d859c4d0576,Inventory Super,ac67f3503a4647dbaa7854f6fc5fb1fc,Inventory User,0fac4c9811ac449d819f1a7650154a5e,Logistic Super,c53e97b5a64c4e3e8fd10a7c90e2781e,Logistic User,160b79ab6130426f834a08819a1da8c1,Outlet Super,36e2ab59d0554eb9adece4c581eacb0c,Outlet User,3242ad7980ae4b299f89c7ebe1abde31,Roadshow Super,3772bab57dff41ca8183e0fe83ead231,Roadshow User,9936345066614e4e8b3b328fe52d923d,Servicing Super,295730d6e6cb40dcb66d350418db222b,Servicing User,3a0466cba31e4a0593aa535a99034e67,Warehouse Super,90a41014e38043e08146f3a0820f7198,Warehouse User">
+>
+<[25]<page="sales_order_logistic.a5wcmp">
+<action="login">
+<groups="5b66c7f9329a4e098b991f86f36a620e,Administrators,8aa79376fcfd45a3aafc06ad57c8130f,Back-Office Super,f88e055164974b2c9673eec691112f8b,Back-Office User,078a44a3eadd43778f2193c7544235f5,HR Super,340150b8a9ae4de7a96d49a34e2f1b12,HR User,5d18766426fa41f4ae082d859c4d0576,Inventory Super,ac67f3503a4647dbaa7854f6fc5fb1fc,Inventory User,0fac4c9811ac449d819f1a7650154a5e,Logistic Super,c53e97b5a64c4e3e8fd10a7c90e2781e,Logistic User,160b79ab6130426f834a08819a1da8c1,Outlet Super,36e2ab59d0554eb9adece4c581eacb0c,Outlet User,3242ad7980ae4b299f89c7ebe1abde31,Roadshow Super,3772bab57dff41ca8183e0fe83ead231,Roadshow User,9936345066614e4e8b3b328fe52d923d,Servicing Super,295730d6e6cb40dcb66d350418db222b,Servicing User,3a0466cba31e4a0593aa535a99034e67,Warehouse Super,90a41014e38043e08146f3a0820f7198,Warehouse User">
+>
+<[26]<page="sales_order_logistic_checkout.a5wcmp">
+<action="login">
+<groups="5b66c7f9329a4e098b991f86f36a620e,Administrators,8aa79376fcfd45a3aafc06ad57c8130f,Back-Office Super,f88e055164974b2c9673eec691112f8b,Back-Office User,078a44a3eadd43778f2193c7544235f5,HR Super,340150b8a9ae4de7a96d49a34e2f1b12,HR User,5d18766426fa41f4ae082d859c4d0576,Inventory Super,ac67f3503a4647dbaa7854f6fc5fb1fc,Inventory User,0fac4c9811ac449d819f1a7650154a5e,Logistic Super,c53e97b5a64c4e3e8fd10a7c90e2781e,Logistic User,160b79ab6130426f834a08819a1da8c1,Outlet Super,36e2ab59d0554eb9adece4c581eacb0c,Outlet User,3242ad7980ae4b299f89c7ebe1abde31,Roadshow Super,3772bab57dff41ca8183e0fe83ead231,Roadshow User,9936345066614e4e8b3b328fe52d923d,Servicing Super,295730d6e6cb40dcb66d350418db222b,Servicing User,3a0466cba31e4a0593aa535a99034e67,Warehouse Super,90a41014e38043e08146f3a0820f7198,Warehouse User">
+>
+<[27]<page="sales_order_resume.a5wcmp">
+<action="login">
+<groups="5b66c7f9329a4e098b991f86f36a620e,Administrators,8aa79376fcfd45a3aafc06ad57c8130f,Back-Office Super,f88e055164974b2c9673eec691112f8b,Back-Office User,078a44a3eadd43778f2193c7544235f5,HR Super,340150b8a9ae4de7a96d49a34e2f1b12,HR User,5d18766426fa41f4ae082d859c4d0576,Inventory Super,ac67f3503a4647dbaa7854f6fc5fb1fc,Inventory User,0fac4c9811ac449d819f1a7650154a5e,Logistic Super,c53e97b5a64c4e3e8fd10a7c90e2781e,Logistic User,160b79ab6130426f834a08819a1da8c1,Outlet Super,36e2ab59d0554eb9adece4c581eacb0c,Outlet User,3242ad7980ae4b299f89c7ebe1abde31,Roadshow Super,3772bab57dff41ca8183e0fe83ead231,Roadshow User,9936345066614e4e8b3b328fe52d923d,Servicing Super,295730d6e6cb40dcb66d350418db222b,Servicing User,3a0466cba31e4a0593aa535a99034e67,Warehouse Super,90a41014e38043e08146f3a0820f7198,Warehouse User">
+>
+<[28]<page="transfer.a5wcmp">
+<action="login">
+<groups="5b66c7f9329a4e098b991f86f36a620e,Administrators,8aa79376fcfd45a3aafc06ad57c8130f,Back-Office Super,f88e055164974b2c9673eec691112f8b,Back-Office User,078a44a3eadd43778f2193c7544235f5,HR Super,340150b8a9ae4de7a96d49a34e2f1b12,HR User,5d18766426fa41f4ae082d859c4d0576,Inventory Super,ac67f3503a4647dbaa7854f6fc5fb1fc,Inventory User,0fac4c9811ac449d819f1a7650154a5e,Logistic Super,c53e97b5a64c4e3e8fd10a7c90e2781e,Logistic User,160b79ab6130426f834a08819a1da8c1,Outlet Super,36e2ab59d0554eb9adece4c581eacb0c,Outlet User,3242ad7980ae4b299f89c7ebe1abde31,Roadshow Super,3772bab57dff41ca8183e0fe83ead231,Roadshow User,9936345066614e4e8b3b328fe52d923d,Servicing Super,295730d6e6cb40dcb66d350418db222b,Servicing User,3a0466cba31e4a0593aa535a99034e67,Warehouse Super,90a41014e38043e08146f3a0820f7198,Warehouse User">
+>
+<[29]<page="transfer_receive.a5wcmp">
+<action="login">
+<groups="5b66c7f9329a4e098b991f86f36a620e,Administrators,8aa79376fcfd45a3aafc06ad57c8130f,Back-Office Super,f88e055164974b2c9673eec691112f8b,Back-Office User,078a44a3eadd43778f2193c7544235f5,HR Super,340150b8a9ae4de7a96d49a34e2f1b12,HR User,5d18766426fa41f4ae082d859c4d0576,Inventory Super,ac67f3503a4647dbaa7854f6fc5fb1fc,Inventory User,0fac4c9811ac449d819f1a7650154a5e,Logistic Super,c53e97b5a64c4e3e8fd10a7c90e2781e,Logistic User,160b79ab6130426f834a08819a1da8c1,Outlet Super,36e2ab59d0554eb9adece4c581eacb0c,Outlet User,3242ad7980ae4b299f89c7ebe1abde31,Roadshow Super,3772bab57dff41ca8183e0fe83ead231,Roadshow User,9936345066614e4e8b3b328fe52d923d,Servicing Super,295730d6e6cb40dcb66d350418db222b,Servicing User,3a0466cba31e4a0593aa535a99034e67,Warehouse Super,90a41014e38043e08146f3a0820f7198,Warehouse User">
+>
+<[30]<page="sales_order_resume_duplicate.a5wcmp">
+<action="login">
+<groups="5b66c7f9329a4e098b991f86f36a620e,Administrators,8aa79376fcfd45a3aafc06ad57c8130f,Back-Office Super,f88e055164974b2c9673eec691112f8b,Back-Office User,078a44a3eadd43778f2193c7544235f5,HR Super,340150b8a9ae4de7a96d49a34e2f1b12,HR User,5d18766426fa41f4ae082d859c4d0576,Inventory Super,ac67f3503a4647dbaa7854f6fc5fb1fc,Inventory User,0fac4c9811ac449d819f1a7650154a5e,Logistic Super,c53e97b5a64c4e3e8fd10a7c90e2781e,Logistic User,160b79ab6130426f834a08819a1da8c1,Outlet Super,36e2ab59d0554eb9adece4c581eacb0c,Outlet User,3242ad7980ae4b299f89c7ebe1abde31,Roadshow Super,3772bab57dff41ca8183e0fe83ead231,Roadshow User,9936345066614e4e8b3b328fe52d923d,Servicing Super,295730d6e6cb40dcb66d350418db222b,Servicing User,3a0466cba31e4a0593aa535a99034e67,Warehouse Super,90a41014e38043e08146f3a0820f7198,Warehouse User">
+>
+<[31]<page="sales_order_resume_checkout.a5wcmp">
+<action="login">
+<groups="5b66c7f9329a4e098b991f86f36a620e,Administrators,8aa79376fcfd45a3aafc06ad57c8130f,Back-Office Super,f88e055164974b2c9673eec691112f8b,Back-Office User,078a44a3eadd43778f2193c7544235f5,HR Super,340150b8a9ae4de7a96d49a34e2f1b12,HR User,5d18766426fa41f4ae082d859c4d0576,Inventory Super,ac67f3503a4647dbaa7854f6fc5fb1fc,Inventory User,0fac4c9811ac449d819f1a7650154a5e,Logistic Super,c53e97b5a64c4e3e8fd10a7c90e2781e,Logistic User,160b79ab6130426f834a08819a1da8c1,Outlet Super,36e2ab59d0554eb9adece4c581eacb0c,Outlet User,3242ad7980ae4b299f89c7ebe1abde31,Roadshow Super,3772bab57dff41ca8183e0fe83ead231,Roadshow User,9936345066614e4e8b3b328fe52d923d,Servicing Super,295730d6e6cb40dcb66d350418db222b,Servicing User,3a0466cba31e4a0593aa535a99034e67,Warehouse Super,90a41014e38043e08146f3a0820f7198,Warehouse User">
+>
+<[32]<page="transfered.a5wcmp">
+<action="login">
+<groups="5b66c7f9329a4e098b991f86f36a620e,Administrators,8aa79376fcfd45a3aafc06ad57c8130f,Back-Office Super,f88e055164974b2c9673eec691112f8b,Back-Office User,078a44a3eadd43778f2193c7544235f5,HR Super,340150b8a9ae4de7a96d49a34e2f1b12,HR User,5d18766426fa41f4ae082d859c4d0576,Inventory Super,ac67f3503a4647dbaa7854f6fc5fb1fc,Inventory User,0fac4c9811ac449d819f1a7650154a5e,Logistic Super,c53e97b5a64c4e3e8fd10a7c90e2781e,Logistic User,160b79ab6130426f834a08819a1da8c1,Outlet Super,36e2ab59d0554eb9adece4c581eacb0c,Outlet User,3242ad7980ae4b299f89c7ebe1abde31,Roadshow Super,3772bab57dff41ca8183e0fe83ead231,Roadshow User,9936345066614e4e8b3b328fe52d923d,Servicing Super,295730d6e6cb40dcb66d350418db222b,Servicing User,3a0466cba31e4a0593aa535a99034e67,Warehouse Super,90a41014e38043e08146f3a0820f7198,Warehouse User">
+>
+<[33]<page="*.woff">
+<action="allow">
+<groups="">
+>
+<[34]<page="*.ttf">
+<action="allow">
+<groups="">
+>
+<[35]<page="*.svg">
+<action="allow">
+<groups="">
+>
+<[36]<page="sales_order_logistic_cod.a5wcmp">
+<action="login">
+<groups="5b66c7f9329a4e098b991f86f36a620e,Administrators,8aa79376fcfd45a3aafc06ad57c8130f,Back-Office Super,f88e055164974b2c9673eec691112f8b,Back-Office User,078a44a3eadd43778f2193c7544235f5,HR Super,340150b8a9ae4de7a96d49a34e2f1b12,HR User,5d18766426fa41f4ae082d859c4d0576,Inventory Super,ac67f3503a4647dbaa7854f6fc5fb1fc,Inventory User,0fac4c9811ac449d819f1a7650154a5e,Logistic Super,c53e97b5a64c4e3e8fd10a7c90e2781e,Logistic User,160b79ab6130426f834a08819a1da8c1,Outlet Super,36e2ab59d0554eb9adece4c581eacb0c,Outlet User,3242ad7980ae4b299f89c7ebe1abde31,Roadshow Super,3772bab57dff41ca8183e0fe83ead231,Roadshow User,9936345066614e4e8b3b328fe52d923d,Servicing Super,295730d6e6cb40dcb66d350418db222b,Servicing User,3a0466cba31e4a0593aa535a99034e67,Warehouse Super,90a41014e38043e08146f3a0820f7198,Warehouse User">
+>
+<[37]<page="user_new.a5wcmp">
+<action="login">
+<groups="5b66c7f9329a4e098b991f86f36a620e,Administrators,8aa79376fcfd45a3aafc06ad57c8130f,Back-Office Super,f88e055164974b2c9673eec691112f8b,Back-Office User,078a44a3eadd43778f2193c7544235f5,HR Super,340150b8a9ae4de7a96d49a34e2f1b12,HR User,5d18766426fa41f4ae082d859c4d0576,Inventory Super,ac67f3503a4647dbaa7854f6fc5fb1fc,Inventory User,0fac4c9811ac449d819f1a7650154a5e,Logistic Super,c53e97b5a64c4e3e8fd10a7c90e2781e,Logistic User,160b79ab6130426f834a08819a1da8c1,Outlet Super,36e2ab59d0554eb9adece4c581eacb0c,Outlet User,3242ad7980ae4b299f89c7ebe1abde31,Roadshow Super,3772bab57dff41ca8183e0fe83ead231,Roadshow User,9936345066614e4e8b3b328fe52d923d,Servicing Super,295730d6e6cb40dcb66d350418db222b,Servicing User,3a0466cba31e4a0593aa535a99034e67,Warehouse Super,90a41014e38043e08146f3a0820f7198,Warehouse User">
+>
+<[38]<page="user_edit.a5wcmp">
+<action="login">
+<groups="5b66c7f9329a4e098b991f86f36a620e,Administrators,8aa79376fcfd45a3aafc06ad57c8130f,Back-Office Super,f88e055164974b2c9673eec691112f8b,Back-Office User,078a44a3eadd43778f2193c7544235f5,HR Super,340150b8a9ae4de7a96d49a34e2f1b12,HR User,5d18766426fa41f4ae082d859c4d0576,Inventory Super,ac67f3503a4647dbaa7854f6fc5fb1fc,Inventory User,0fac4c9811ac449d819f1a7650154a5e,Logistic Super,c53e97b5a64c4e3e8fd10a7c90e2781e,Logistic User,160b79ab6130426f834a08819a1da8c1,Outlet Super,36e2ab59d0554eb9adece4c581eacb0c,Outlet User,3242ad7980ae4b299f89c7ebe1abde31,Roadshow Super,3772bab57dff41ca8183e0fe83ead231,Roadshow User,9936345066614e4e8b3b328fe52d923d,Servicing Super,295730d6e6cb40dcb66d350418db222b,Servicing User,3a0466cba31e4a0593aa535a99034e67,Warehouse Super,90a41014e38043e08146f3a0820f7198,Warehouse User">
+>
+<[39]<page="user_list.a5wcmp">
+<action="login">
+<groups="5b66c7f9329a4e098b991f86f36a620e,Administrators,8aa79376fcfd45a3aafc06ad57c8130f,Back-Office Super,f88e055164974b2c9673eec691112f8b,Back-Office User,078a44a3eadd43778f2193c7544235f5,HR Super,340150b8a9ae4de7a96d49a34e2f1b12,HR User,5d18766426fa41f4ae082d859c4d0576,Inventory Super,ac67f3503a4647dbaa7854f6fc5fb1fc,Inventory User,0fac4c9811ac449d819f1a7650154a5e,Logistic Super,c53e97b5a64c4e3e8fd10a7c90e2781e,Logistic User,160b79ab6130426f834a08819a1da8c1,Outlet Super,36e2ab59d0554eb9adece4c581eacb0c,Outlet User,3242ad7980ae4b299f89c7ebe1abde31,Roadshow Super,3772bab57dff41ca8183e0fe83ead231,Roadshow User,9936345066614e4e8b3b328fe52d923d,Servicing Super,295730d6e6cb40dcb66d350418db222b,Servicing User,3a0466cba31e4a0593aa535a99034e67,Warehouse Super,90a41014e38043e08146f3a0820f7198,Warehouse User">
+>
+<[40]<page="sales_invoice_payment@ogawaa5.alb">
+<action="allow">
+<groups="">
+>
+<[41]<page="sbo_salesrep.a5wcmp">
+<action="login">
+<groups="5b66c7f9329a4e098b991f86f36a620e,Administrators,8aa79376fcfd45a3aafc06ad57c8130f,Back-Office Super,f88e055164974b2c9673eec691112f8b,Back-Office User,078a44a3eadd43778f2193c7544235f5,HR Super,340150b8a9ae4de7a96d49a34e2f1b12,HR User,5d18766426fa41f4ae082d859c4d0576,Inventory Super,ac67f3503a4647dbaa7854f6fc5fb1fc,Inventory User,0fac4c9811ac449d819f1a7650154a5e,Logistic Super,c53e97b5a64c4e3e8fd10a7c90e2781e,Logistic User,160b79ab6130426f834a08819a1da8c1,Outlet Super,36e2ab59d0554eb9adece4c581eacb0c,Outlet User,3242ad7980ae4b299f89c7ebe1abde31,Roadshow Super,3772bab57dff41ca8183e0fe83ead231,Roadshow User,9936345066614e4e8b3b328fe52d923d,Servicing Super,295730d6e6cb40dcb66d350418db222b,Servicing User,3a0466cba31e4a0593aa535a99034e67,Warehouse Super,90a41014e38043e08146f3a0820f7198,Warehouse User">
+>
+<[42]<page="transfer_new.a5wcmp">
+<action="login">
+<groups="5b66c7f9329a4e098b991f86f36a620e,Administrators,8aa79376fcfd45a3aafc06ad57c8130f,Back-Office Super,f88e055164974b2c9673eec691112f8b,Back-Office User,078a44a3eadd43778f2193c7544235f5,HR Super,340150b8a9ae4de7a96d49a34e2f1b12,HR User,5d18766426fa41f4ae082d859c4d0576,Inventory Super,ac67f3503a4647dbaa7854f6fc5fb1fc,Inventory User,0fac4c9811ac449d819f1a7650154a5e,Logistic Super,c53e97b5a64c4e3e8fd10a7c90e2781e,Logistic User,160b79ab6130426f834a08819a1da8c1,Outlet Super,36e2ab59d0554eb9adece4c581eacb0c,Outlet User,3242ad7980ae4b299f89c7ebe1abde31,Roadshow Super,3772bab57dff41ca8183e0fe83ead231,Roadshow User,9936345066614e4e8b3b328fe52d923d,Servicing Super,295730d6e6cb40dcb66d350418db222b,Servicing User,3a0466cba31e4a0593aa535a99034e67,Warehouse Super,90a41014e38043e08146f3a0820f7198,Warehouse User">
+>
+<[43]<page="transfer_in@ogawaa5.alb">
+<action="allow">
+<groups="">
+>
+<[44]<page="transfer_out@ogawaa5.alb">
+<action="allow">
+<groups="">
+>
+<[45]<page="security_key.a5wcmp">
+<action="login">
+<groups="5b66c7f9329a4e098b991f86f36a620e,Administrators,8aa79376fcfd45a3aafc06ad57c8130f,Back-Office Super,f88e055164974b2c9673eec691112f8b,Back-Office User,078a44a3eadd43778f2193c7544235f5,HR Super,340150b8a9ae4de7a96d49a34e2f1b12,HR User,5d18766426fa41f4ae082d859c4d0576,Inventory Super,ac67f3503a4647dbaa7854f6fc5fb1fc,Inventory User,0fac4c9811ac449d819f1a7650154a5e,Logistic Super,c53e97b5a64c4e3e8fd10a7c90e2781e,Logistic User,160b79ab6130426f834a08819a1da8c1,Outlet Super,36e2ab59d0554eb9adece4c581eacb0c,Outlet User,3242ad7980ae4b299f89c7ebe1abde31,Roadshow Super,3772bab57dff41ca8183e0fe83ead231,Roadshow User,9936345066614e4e8b3b328fe52d923d,Servicing Super,295730d6e6cb40dcb66d350418db222b,Servicing User,3a0466cba31e4a0593aa535a99034e67,Warehouse Super,90a41014e38043e08146f3a0820f7198,Warehouse User">
+>
+<[46]<page="index_ux.a5wcmp">
+<action="allow">
+<groups="">
+>
+<[47]<page="login_ux.a5w">
+<action="allow">
+<groups="">
+>
+<[48]<page="maint_code.a5wcmp">
+<action="login">
+<groups="5b66c7f9329a4e098b991f86f36a620e,Administrators,8aa79376fcfd45a3aafc06ad57c8130f,Back-Office Super,f88e055164974b2c9673eec691112f8b,Back-Office User,078a44a3eadd43778f2193c7544235f5,HR Super,340150b8a9ae4de7a96d49a34e2f1b12,HR User,5d18766426fa41f4ae082d859c4d0576,Inventory Super,ac67f3503a4647dbaa7854f6fc5fb1fc,Inventory User,0fac4c9811ac449d819f1a7650154a5e,Logistic Super,c53e97b5a64c4e3e8fd10a7c90e2781e,Logistic User,160b79ab6130426f834a08819a1da8c1,Outlet Super,36e2ab59d0554eb9adece4c581eacb0c,Outlet User,3242ad7980ae4b299f89c7ebe1abde31,Roadshow Super,3772bab57dff41ca8183e0fe83ead231,Roadshow User,9936345066614e4e8b3b328fe52d923d,Servicing Super,295730d6e6cb40dcb66d350418db222b,Servicing User,3a0466cba31e4a0593aa535a99034e67,Warehouse Super,90a41014e38043e08146f3a0820f7198,Warehouse User">
+>
+<[49]<page="sales_order_exchange.a5wcmp">
+<action="login">
+<groups="5b66c7f9329a4e098b991f86f36a620e,Administrators,8aa79376fcfd45a3aafc06ad57c8130f,Back-Office Super,f88e055164974b2c9673eec691112f8b,Back-Office User,078a44a3eadd43778f2193c7544235f5,HR Super,340150b8a9ae4de7a96d49a34e2f1b12,HR User,5d18766426fa41f4ae082d859c4d0576,Inventory Super,ac67f3503a4647dbaa7854f6fc5fb1fc,Inventory User,0fac4c9811ac449d819f1a7650154a5e,Logistic Super,c53e97b5a64c4e3e8fd10a7c90e2781e,Logistic User,160b79ab6130426f834a08819a1da8c1,Outlet Super,36e2ab59d0554eb9adece4c581eacb0c,Outlet User,3242ad7980ae4b299f89c7ebe1abde31,Roadshow Super,3772bab57dff41ca8183e0fe83ead231,Roadshow User,9936345066614e4e8b3b328fe52d923d,Servicing Super,295730d6e6cb40dcb66d350418db222b,Servicing User,3a0466cba31e4a0593aa535a99034e67,Warehouse Super,90a41014e38043e08146f3a0820f7198,Warehouse User">
+>
+<[50]<page="sales_order_exchange_checkout.a5wcmp">
+<action="login">
+<groups="5b66c7f9329a4e098b991f86f36a620e,Administrators,8aa79376fcfd45a3aafc06ad57c8130f,Back-Office Super,f88e055164974b2c9673eec691112f8b,Back-Office User,078a44a3eadd43778f2193c7544235f5,HR Super,340150b8a9ae4de7a96d49a34e2f1b12,HR User,5d18766426fa41f4ae082d859c4d0576,Inventory Super,ac67f3503a4647dbaa7854f6fc5fb1fc,Inventory User,0fac4c9811ac449d819f1a7650154a5e,Logistic Super,c53e97b5a64c4e3e8fd10a7c90e2781e,Logistic User,160b79ab6130426f834a08819a1da8c1,Outlet Super,36e2ab59d0554eb9adece4c581eacb0c,Outlet User,3242ad7980ae4b299f89c7ebe1abde31,Roadshow Super,3772bab57dff41ca8183e0fe83ead231,Roadshow User,9936345066614e4e8b3b328fe52d923d,Servicing Super,295730d6e6cb40dcb66d350418db222b,Servicing User,3a0466cba31e4a0593aa535a99034e67,Warehouse Super,90a41014e38043e08146f3a0820f7198,Warehouse User">
+>
+<[51]<page="transfer_outlet.a5wcmp">
+<action="login">
+<groups="5b66c7f9329a4e098b991f86f36a620e,Administrators,8aa79376fcfd45a3aafc06ad57c8130f,Back-Office Super,f88e055164974b2c9673eec691112f8b,Back-Office User,078a44a3eadd43778f2193c7544235f5,HR Super,340150b8a9ae4de7a96d49a34e2f1b12,HR User,5d18766426fa41f4ae082d859c4d0576,Inventory Super,ac67f3503a4647dbaa7854f6fc5fb1fc,Inventory User,0fac4c9811ac449d819f1a7650154a5e,Logistic Super,c53e97b5a64c4e3e8fd10a7c90e2781e,Logistic User,160b79ab6130426f834a08819a1da8c1,Outlet Super,36e2ab59d0554eb9adece4c581eacb0c,Outlet User,3242ad7980ae4b299f89c7ebe1abde31,Roadshow Super,3772bab57dff41ca8183e0fe83ead231,Roadshow User,9936345066614e4e8b3b328fe52d923d,Servicing Super,295730d6e6cb40dcb66d350418db222b,Servicing User,3a0466cba31e4a0593aa535a99034e67,Warehouse Super,90a41014e38043e08146f3a0820f7198,Warehouse User">
+>
+<[52]<page="transfer_receive_outlet.a5wcmp">
+<action="login">
+<groups="5b66c7f9329a4e098b991f86f36a620e,Administrators,8aa79376fcfd45a3aafc06ad57c8130f,Back-Office Super,f88e055164974b2c9673eec691112f8b,Back-Office User,078a44a3eadd43778f2193c7544235f5,HR Super,340150b8a9ae4de7a96d49a34e2f1b12,HR User,5d18766426fa41f4ae082d859c4d0576,Inventory Super,ac67f3503a4647dbaa7854f6fc5fb1fc,Inventory User,0fac4c9811ac449d819f1a7650154a5e,Logistic Super,c53e97b5a64c4e3e8fd10a7c90e2781e,Logistic User,160b79ab6130426f834a08819a1da8c1,Outlet Super,36e2ab59d0554eb9adece4c581eacb0c,Outlet User,3242ad7980ae4b299f89c7ebe1abde31,Roadshow Super,3772bab57dff41ca8183e0fe83ead231,Roadshow User,9936345066614e4e8b3b328fe52d923d,Servicing Super,295730d6e6cb40dcb66d350418db222b,Servicing User,3a0466cba31e4a0593aa535a99034e67,Warehouse Super,90a41014e38043e08146f3a0820f7198,Warehouse User">
+>
+<[53]<page="printing.a5w">
+<action="login">
+<groups="5b66c7f9329a4e098b991f86f36a620e,Administrators,8aa79376fcfd45a3aafc06ad57c8130f,Back-Office Super,f88e055164974b2c9673eec691112f8b,Back-Office User,078a44a3eadd43778f2193c7544235f5,HR Super,340150b8a9ae4de7a96d49a34e2f1b12,HR User,5d18766426fa41f4ae082d859c4d0576,Inventory Super,ac67f3503a4647dbaa7854f6fc5fb1fc,Inventory User,0fac4c9811ac449d819f1a7650154a5e,Logistic Super,c53e97b5a64c4e3e8fd10a7c90e2781e,Logistic User,160b79ab6130426f834a08819a1da8c1,Outlet Super,36e2ab59d0554eb9adece4c581eacb0c,Outlet User,3242ad7980ae4b299f89c7ebe1abde31,Roadshow Super,3772bab57dff41ca8183e0fe83ead231,Roadshow User,9936345066614e4e8b3b328fe52d923d,Servicing Super,295730d6e6cb40dcb66d350418db222b,Servicing User,3a0466cba31e4a0593aa535a99034e67,Warehouse Super,90a41014e38043e08146f3a0820f7198,Warehouse User">
+>
+<[54]<page="delivery_list.a5wcmp">
+<action="login">
+<groups="5b66c7f9329a4e098b991f86f36a620e,Administrators,8aa79376fcfd45a3aafc06ad57c8130f,Back-Office Super,f88e055164974b2c9673eec691112f8b,Back-Office User,078a44a3eadd43778f2193c7544235f5,HR Super,340150b8a9ae4de7a96d49a34e2f1b12,HR User,5d18766426fa41f4ae082d859c4d0576,Inventory Super,ac67f3503a4647dbaa7854f6fc5fb1fc,Inventory User,0fac4c9811ac449d819f1a7650154a5e,Logistic Super,c53e97b5a64c4e3e8fd10a7c90e2781e,Logistic User,9936345066614e4e8b3b328fe52d923d,Marketing User,160b79ab6130426f834a08819a1da8c1,Outlet Super,36e2ab59d0554eb9adece4c581eacb0c,Outlet User,3242ad7980ae4b299f89c7ebe1abde31,Roadshow Super,3772bab57dff41ca8183e0fe83ead231,Roadshow User,295730d6e6cb40dcb66d350418db222b,Servicing User,3a0466cba31e4a0593aa535a99034e67,Warehouse Super,90a41014e38043e08146f3a0820f7198,Warehouse User">
+>
+<[55]<page="sales_order_logistic_return.a5wcmp">
+<action="login">
+<groups="5b66c7f9329a4e098b991f86f36a620e,Administrators,8aa79376fcfd45a3aafc06ad57c8130f,Back-Office Super,f88e055164974b2c9673eec691112f8b,Back-Office User,078a44a3eadd43778f2193c7544235f5,HR Super,340150b8a9ae4de7a96d49a34e2f1b12,HR User,5d18766426fa41f4ae082d859c4d0576,Inventory Super,ac67f3503a4647dbaa7854f6fc5fb1fc,Inventory User,0fac4c9811ac449d819f1a7650154a5e,Logistic Super,c53e97b5a64c4e3e8fd10a7c90e2781e,Logistic User,160b79ab6130426f834a08819a1da8c1,Outlet Super,36e2ab59d0554eb9adece4c581eacb0c,Outlet User,3242ad7980ae4b299f89c7ebe1abde31,Roadshow Super,3772bab57dff41ca8183e0fe83ead231,Roadshow User,9936345066614e4e8b3b328fe52d923d,Servicing Super,295730d6e6cb40dcb66d350418db222b,Servicing User,3a0466cba31e4a0593aa535a99034e67,Warehouse Super,90a41014e38043e08146f3a0820f7198,Warehouse User">
+>
+<[56]<page="sales_order_resume_return.a5wcmp">
+<action="login">
+<groups="5b66c7f9329a4e098b991f86f36a620e,Administrators,8aa79376fcfd45a3aafc06ad57c8130f,Back-Office Super,f88e055164974b2c9673eec691112f8b,Back-Office User,078a44a3eadd43778f2193c7544235f5,HR Super,340150b8a9ae4de7a96d49a34e2f1b12,HR User,5d18766426fa41f4ae082d859c4d0576,Inventory Super,ac67f3503a4647dbaa7854f6fc5fb1fc,Inventory User,0fac4c9811ac449d819f1a7650154a5e,Logistic Super,c53e97b5a64c4e3e8fd10a7c90e2781e,Logistic User,160b79ab6130426f834a08819a1da8c1,Outlet Super,36e2ab59d0554eb9adece4c581eacb0c,Outlet User,3242ad7980ae4b299f89c7ebe1abde31,Roadshow Super,3772bab57dff41ca8183e0fe83ead231,Roadshow User,9936345066614e4e8b3b328fe52d923d,Servicing Super,295730d6e6cb40dcb66d350418db222b,Servicing User,3a0466cba31e4a0593aa535a99034e67,Warehouse Super,90a41014e38043e08146f3a0820f7198,Warehouse User">
+>
+<[57]<page="sales_invoice_HK@ogawaa5.alb">
+<action="allow">
+<groups="">
+>
+<[58]<page="sales_order_draft.a5w">
+<action="login">
+<groups="5b66c7f9329a4e098b991f86f36a620e,Administrators,8aa79376fcfd45a3aafc06ad57c8130f,Back-Office Super,f88e055164974b2c9673eec691112f8b,Back-Office User,078a44a3eadd43778f2193c7544235f5,HR Super,340150b8a9ae4de7a96d49a34e2f1b12,HR User,5d18766426fa41f4ae082d859c4d0576,Inventory Super,ac67f3503a4647dbaa7854f6fc5fb1fc,Inventory User,0fac4c9811ac449d819f1a7650154a5e,Logistic Super,c53e97b5a64c4e3e8fd10a7c90e2781e,Logistic User,160b79ab6130426f834a08819a1da8c1,Outlet Super,36e2ab59d0554eb9adece4c581eacb0c,Outlet User,3242ad7980ae4b299f89c7ebe1abde31,Roadshow Super,3772bab57dff41ca8183e0fe83ead231,Roadshow User,9936345066614e4e8b3b328fe52d923d,Servicing Super,295730d6e6cb40dcb66d350418db222b,Servicing User,3a0466cba31e4a0593aa535a99034e67,Warehouse Super,90a41014e38043e08146f3a0820f7198,Warehouse User">
+>
+<[59]<page="index_ux.a5w">
+<action="login">
+<groups="5b66c7f9329a4e098b991f86f36a620e,Administrators,8aa79376fcfd45a3aafc06ad57c8130f,Back-Office Super,f88e055164974b2c9673eec691112f8b,Back-Office User,078a44a3eadd43778f2193c7544235f5,HR Super,340150b8a9ae4de7a96d49a34e2f1b12,HR User,5d18766426fa41f4ae082d859c4d0576,Inventory Super,ac67f3503a4647dbaa7854f6fc5fb1fc,Inventory User,0fac4c9811ac449d819f1a7650154a5e,Logistic Super,c53e97b5a64c4e3e8fd10a7c90e2781e,Logistic User,160b79ab6130426f834a08819a1da8c1,Outlet Super,36e2ab59d0554eb9adece4c581eacb0c,Outlet User,3242ad7980ae4b299f89c7ebe1abde31,Roadshow Super,3772bab57dff41ca8183e0fe83ead231,Roadshow User,9936345066614e4e8b3b328fe52d923d,Servicing Super,295730d6e6cb40dcb66d350418db222b,Servicing User,3a0466cba31e4a0593aa535a99034e67,Warehouse Super,90a41014e38043e08146f3a0820f7198,Warehouse User">
+>
+<[60]<page="sales_order_resume_duplicate.a5w">
+<action="login">
+<groups="5b66c7f9329a4e098b991f86f36a620e,Administrators,8aa79376fcfd45a3aafc06ad57c8130f,Back-Office Super,f88e055164974b2c9673eec691112f8b,Back-Office User,078a44a3eadd43778f2193c7544235f5,HR Super,340150b8a9ae4de7a96d49a34e2f1b12,HR User,5d18766426fa41f4ae082d859c4d0576,Inventory Super,ac67f3503a4647dbaa7854f6fc5fb1fc,Inventory User,0fac4c9811ac449d819f1a7650154a5e,Logistic Super,c53e97b5a64c4e3e8fd10a7c90e2781e,Logistic User,160b79ab6130426f834a08819a1da8c1,Outlet Super,36e2ab59d0554eb9adece4c581eacb0c,Outlet User,3242ad7980ae4b299f89c7ebe1abde31,Roadshow Super,3772bab57dff41ca8183e0fe83ead231,Roadshow User,9936345066614e4e8b3b328fe52d923d,Servicing Super,295730d6e6cb40dcb66d350418db222b,Servicing User,3a0466cba31e4a0593aa535a99034e67,Warehouse Super,90a41014e38043e08146f3a0820f7198,Warehouse User">
+>
+<[61]<page="pick_list@ogawaa5.alb">
+<action="allow">
+<groups="">
+>
+<[62]<page="sales_order_creditnote.a5wcmp">
+<action="login">
+<groups="5b66c7f9329a4e098b991f86f36a620e,Administrators,8aa79376fcfd45a3aafc06ad57c8130f,Back-Office Super,f88e055164974b2c9673eec691112f8b,Back-Office User,078a44a3eadd43778f2193c7544235f5,HR Super,340150b8a9ae4de7a96d49a34e2f1b12,HR User,5d18766426fa41f4ae082d859c4d0576,Inventory Super,ac67f3503a4647dbaa7854f6fc5fb1fc,Inventory User,0fac4c9811ac449d819f1a7650154a5e,Logistic Super,c53e97b5a64c4e3e8fd10a7c90e2781e,Logistic User,160b79ab6130426f834a08819a1da8c1,Outlet Super,36e2ab59d0554eb9adece4c581eacb0c,Outlet User,3242ad7980ae4b299f89c7ebe1abde31,Roadshow Super,3772bab57dff41ca8183e0fe83ead231,Roadshow User,9936345066614e4e8b3b328fe52d923d,Servicing Super,295730d6e6cb40dcb66d350418db222b,Servicing User,3a0466cba31e4a0593aa535a99034e67,Warehouse Super,90a41014e38043e08146f3a0820f7198,Warehouse User">
+>
+<[63]<page="translate.a5wcmp">
+<action="login">
+<groups="5b66c7f9329a4e098b991f86f36a620e,Administrators,8aa79376fcfd45a3aafc06ad57c8130f,Back-Office Super,f88e055164974b2c9673eec691112f8b,Back-Office User,078a44a3eadd43778f2193c7544235f5,HR Super,340150b8a9ae4de7a96d49a34e2f1b12,HR User,5d18766426fa41f4ae082d859c4d0576,Inventory Super,ac67f3503a4647dbaa7854f6fc5fb1fc,Inventory User,0fac4c9811ac449d819f1a7650154a5e,Logistic Super,c53e97b5a64c4e3e8fd10a7c90e2781e,Logistic User,160b79ab6130426f834a08819a1da8c1,Outlet Super,36e2ab59d0554eb9adece4c581eacb0c,Outlet User,3242ad7980ae4b299f89c7ebe1abde31,Roadshow Super,3772bab57dff41ca8183e0fe83ead231,Roadshow User,9936345066614e4e8b3b328fe52d923d,Servicing Super,295730d6e6cb40dcb66d350418db222b,Servicing User,3a0466cba31e4a0593aa535a99034e67,Warehouse Super,90a41014e38043e08146f3a0820f7198,Warehouse User">
+>
+<[64]<page="sales_order_resume_info.a5wcmp">
+<action="login">
+<groups="5b66c7f9329a4e098b991f86f36a620e,Administrators,8aa79376fcfd45a3aafc06ad57c8130f,Back-Office Super,f88e055164974b2c9673eec691112f8b,Back-Office User,078a44a3eadd43778f2193c7544235f5,HR Super,340150b8a9ae4de7a96d49a34e2f1b12,HR User,5d18766426fa41f4ae082d859c4d0576,Inventory Super,ac67f3503a4647dbaa7854f6fc5fb1fc,Inventory User,0fac4c9811ac449d819f1a7650154a5e,Logistic Super,c53e97b5a64c4e3e8fd10a7c90e2781e,Logistic User,160b79ab6130426f834a08819a1da8c1,Outlet Super,36e2ab59d0554eb9adece4c581eacb0c,Outlet User,3242ad7980ae4b299f89c7ebe1abde31,Roadshow Super,3772bab57dff41ca8183e0fe83ead231,Roadshow User,9936345066614e4e8b3b328fe52d923d,Servicing Super,295730d6e6cb40dcb66d350418db222b,Servicing User,3a0466cba31e4a0593aa535a99034e67,Warehouse Super,90a41014e38043e08146f3a0820f7198,Warehouse User">
+>
+<[65]<page="delivery_current@ogawaa5.alb">
+<action="login">
+<groups="5b66c7f9329a4e098b991f86f36a620e,Administrators,8aa79376fcfd45a3aafc06ad57c8130f,Back-Office Super,f88e055164974b2c9673eec691112f8b,Back-Office User,0fac4c9811ac449d819f1a7650154a5e,Logistic Super,c53e97b5a64c4e3e8fd10a7c90e2781e,Logistic User,160b79ab6130426f834a08819a1da8c1,Outlet Super,36e2ab59d0554eb9adece4c581eacb0c,Outlet User,3242ad7980ae4b299f89c7ebe1abde31,Roadshow Super,3772bab57dff41ca8183e0fe83ead231,Roadshow User,3a0466cba31e4a0593aa535a99034e67,Warehouse Super,90a41014e38043e08146f3a0820f7198,Warehouse User">
+>
+<[66]<page="delivery_previous@ogawaa5.alb">
+<action="login">
+<groups="5b66c7f9329a4e098b991f86f36a620e,Administrators,8aa79376fcfd45a3aafc06ad57c8130f,Back-Office Super,f88e055164974b2c9673eec691112f8b,Back-Office User,0fac4c9811ac449d819f1a7650154a5e,Logistic Super,c53e97b5a64c4e3e8fd10a7c90e2781e,Logistic User,160b79ab6130426f834a08819a1da8c1,Outlet Super,36e2ab59d0554eb9adece4c581eacb0c,Outlet User,3242ad7980ae4b299f89c7ebe1abde31,Roadshow Super,3772bab57dff41ca8183e0fe83ead231,Roadshow User,3a0466cba31e4a0593aa535a99034e67,Warehouse Super,90a41014e38043e08146f3a0820f7198,Warehouse User">
+>
+<[67]<page="lt_delivery_current@ogawaa5.alb">
+<action="allow">
+<groups="">
+>
+<[68]<page="lt_delivery_previous@ogawaa5.alb">
+<action="allow">
+<groups="">
+>
+<[69]<page="sales_order_resume_duplicate_return.a5wcmp">
+<action="login">
+<groups="5b66c7f9329a4e098b991f86f36a620e,Administrators,8aa79376fcfd45a3aafc06ad57c8130f,Back-Office Super,f88e055164974b2c9673eec691112f8b,Back-Office User,078a44a3eadd43778f2193c7544235f5,HR Super,340150b8a9ae4de7a96d49a34e2f1b12,HR User,5d18766426fa41f4ae082d859c4d0576,Inventory Super,ac67f3503a4647dbaa7854f6fc5fb1fc,Inventory User,0fac4c9811ac449d819f1a7650154a5e,Logistic Super,c53e97b5a64c4e3e8fd10a7c90e2781e,Logistic User,160b79ab6130426f834a08819a1da8c1,Outlet Super,36e2ab59d0554eb9adece4c581eacb0c,Outlet User,3242ad7980ae4b299f89c7ebe1abde31,Roadshow Super,3772bab57dff41ca8183e0fe83ead231,Roadshow User,9936345066614e4e8b3b328fe52d923d,Servicing Super,295730d6e6cb40dcb66d350418db222b,Servicing User,3a0466cba31e4a0593aa535a99034e67,Warehouse Super,90a41014e38043e08146f3a0820f7198,Warehouse User">
+>
+<[70]<page="sales_order_resume_duplicate_return.a5w">
+<action="login">
+<groups="5b66c7f9329a4e098b991f86f36a620e,Administrators,8aa79376fcfd45a3aafc06ad57c8130f,Back-Office Super,f88e055164974b2c9673eec691112f8b,Back-Office User,078a44a3eadd43778f2193c7544235f5,HR Super,340150b8a9ae4de7a96d49a34e2f1b12,HR User,5d18766426fa41f4ae082d859c4d0576,Inventory Super,ac67f3503a4647dbaa7854f6fc5fb1fc,Inventory User,0fac4c9811ac449d819f1a7650154a5e,Logistic Super,c53e97b5a64c4e3e8fd10a7c90e2781e,Logistic User,160b79ab6130426f834a08819a1da8c1,Outlet Super,36e2ab59d0554eb9adece4c581eacb0c,Outlet User,3242ad7980ae4b299f89c7ebe1abde31,Roadshow Super,3772bab57dff41ca8183e0fe83ead231,Roadshow User,9936345066614e4e8b3b328fe52d923d,Servicing Super,295730d6e6cb40dcb66d350418db222b,Servicing User,3a0466cba31e4a0593aa535a99034e67,Warehouse Super,90a41014e38043e08146f3a0820f7198,Warehouse User">
+>
+<[71]<page="warehouse_address@ogawaa5.alb">
+<action="allow">
+<groups="">
+>
+<[72]<page="delivery_order_HK@ogawaa5.alb">
+<action="allow">
+<groups="">
+>
+<[73]<page="sales_order_resume.a5w">
+<action="login">
+<groups="5b66c7f9329a4e098b991f86f36a620e,Administrators,8aa79376fcfd45a3aafc06ad57c8130f,Back-Office Super,f88e055164974b2c9673eec691112f8b,Back-Office User,078a44a3eadd43778f2193c7544235f5,HR Super,340150b8a9ae4de7a96d49a34e2f1b12,HR User,5d18766426fa41f4ae082d859c4d0576,Inventory Super,ac67f3503a4647dbaa7854f6fc5fb1fc,Inventory User,0fac4c9811ac449d819f1a7650154a5e,Logistic Super,c53e97b5a64c4e3e8fd10a7c90e2781e,Logistic User,160b79ab6130426f834a08819a1da8c1,Outlet Super,36e2ab59d0554eb9adece4c581eacb0c,Outlet User,3242ad7980ae4b299f89c7ebe1abde31,Roadshow Super,3772bab57dff41ca8183e0fe83ead231,Roadshow User,9936345066614e4e8b3b328fe52d923d,Servicing Super,295730d6e6cb40dcb66d350418db222b,Servicing User,3a0466cba31e4a0593aa535a99034e67,Warehouse Super,90a41014e38043e08146f3a0820f7198,Warehouse User">
+>
+<[74]<page="sales_achievement_report.a5wcmp">
+<action="login">
+<groups="5b66c7f9329a4e098b991f86f36a620e,Administrators,8aa79376fcfd45a3aafc06ad57c8130f,Back-Office Super,f88e055164974b2c9673eec691112f8b,Back-Office User,078a44a3eadd43778f2193c7544235f5,HR Super,340150b8a9ae4de7a96d49a34e2f1b12,HR User,5d18766426fa41f4ae082d859c4d0576,Inventory Super,ac67f3503a4647dbaa7854f6fc5fb1fc,Inventory User,0fac4c9811ac449d819f1a7650154a5e,Logistic Super,c53e97b5a64c4e3e8fd10a7c90e2781e,Logistic User,160b79ab6130426f834a08819a1da8c1,Outlet Super,36e2ab59d0554eb9adece4c581eacb0c,Outlet User,3242ad7980ae4b299f89c7ebe1abde31,Roadshow Super,3772bab57dff41ca8183e0fe83ead231,Roadshow User,9936345066614e4e8b3b328fe52d923d,Servicing Super,295730d6e6cb40dcb66d350418db222b,Servicing User,3a0466cba31e4a0593aa535a99034e67,Warehouse Super,90a41014e38043e08146f3a0820f7198,Warehouse User">
+>
+<[75]<page="stock_balance_report.a5wcmp">
+<action="login">
+<groups="5b66c7f9329a4e098b991f86f36a620e,Administrators,8aa79376fcfd45a3aafc06ad57c8130f,Back-Office Super,f88e055164974b2c9673eec691112f8b,Back-Office User,078a44a3eadd43778f2193c7544235f5,HR Super,340150b8a9ae4de7a96d49a34e2f1b12,HR User,5d18766426fa41f4ae082d859c4d0576,Inventory Super,ac67f3503a4647dbaa7854f6fc5fb1fc,Inventory User,0fac4c9811ac449d819f1a7650154a5e,Logistic Super,c53e97b5a64c4e3e8fd10a7c90e2781e,Logistic User,160b79ab6130426f834a08819a1da8c1,Outlet Super,36e2ab59d0554eb9adece4c581eacb0c,Outlet User,3242ad7980ae4b299f89c7ebe1abde31,Roadshow Super,3772bab57dff41ca8183e0fe83ead231,Roadshow User,9936345066614e4e8b3b328fe52d923d,Servicing Super,295730d6e6cb40dcb66d350418db222b,Servicing User,3a0466cba31e4a0593aa535a99034e67,Warehouse Super,90a41014e38043e08146f3a0820f7198,Warehouse User">
+>
+<[76]<page="delivery_order_HKreprint@ogawaa5.alb">
+<action="allow">
+<groups="">
+>
+<[77]<page="pick_list_reprint@ogawaa5.alb">
+<action="allow">
+<groups="">
+>
+<[78]<page="full_order_list@ogawaa5.alb">
+<action="allow">
+<groups="">
+>
+<[79]<page="sales_achievement_report@ogawaa5.alb">
+<action="allow">
+<groups="">
+>
+<[80]<page="sales_invoice_HKreprint@ogawaa5.alb">
+<action="allow">
+<groups="">
+>
+<[81]<page="stock_balance@ogawaa5.alb">
+<action="allow">
+<groups="">
+>
+<[82]<page="sales_order_resume_duplicate_copy.a5w">
+<action="login">
+<groups="5b66c7f9329a4e098b991f86f36a620e,Administrators,8aa79376fcfd45a3aafc06ad57c8130f,Back-Office Super,f88e055164974b2c9673eec691112f8b,Back-Office User,078a44a3eadd43778f2193c7544235f5,HR Super,340150b8a9ae4de7a96d49a34e2f1b12,HR User,5d18766426fa41f4ae082d859c4d0576,Inventory Super,ac67f3503a4647dbaa7854f6fc5fb1fc,Inventory User,0fac4c9811ac449d819f1a7650154a5e,Logistic Super,c53e97b5a64c4e3e8fd10a7c90e2781e,Logistic User,160b79ab6130426f834a08819a1da8c1,Outlet Super,36e2ab59d0554eb9adece4c581eacb0c,Outlet User,3242ad7980ae4b299f89c7ebe1abde31,Roadshow Super,3772bab57dff41ca8183e0fe83ead231,Roadshow User,9936345066614e4e8b3b328fe52d923d,Servicing Super,295730d6e6cb40dcb66d350418db222b,Servicing User,3a0466cba31e4a0593aa535a99034e67,Warehouse Super,90a41014e38043e08146f3a0820f7198,Warehouse User">
+>
+<[83]<page="sales_order_resume_duplicate_copy.a5wcmp">
+<action="login">
+<groups="5b66c7f9329a4e098b991f86f36a620e,Administrators,8aa79376fcfd45a3aafc06ad57c8130f,Back-Office Super,f88e055164974b2c9673eec691112f8b,Back-Office User,078a44a3eadd43778f2193c7544235f5,HR Super,340150b8a9ae4de7a96d49a34e2f1b12,HR User,5d18766426fa41f4ae082d859c4d0576,Inventory Super,ac67f3503a4647dbaa7854f6fc5fb1fc,Inventory User,0fac4c9811ac449d819f1a7650154a5e,Logistic Super,c53e97b5a64c4e3e8fd10a7c90e2781e,Logistic User,160b79ab6130426f834a08819a1da8c1,Outlet Super,36e2ab59d0554eb9adece4c581eacb0c,Outlet User,3242ad7980ae4b299f89c7ebe1abde31,Roadshow Super,3772bab57dff41ca8183e0fe83ead231,Roadshow User,9936345066614e4e8b3b328fe52d923d,Servicing Super,295730d6e6cb40dcb66d350418db222b,Servicing User,3a0466cba31e4a0593aa535a99034e67,Warehouse Super,90a41014e38043e08146f3a0820f7198,Warehouse User">
+>
+<[84]<page="delivery_request_report.a5wcmp">
+<action="login">
+<groups="5b66c7f9329a4e098b991f86f36a620e,Administrators,8aa79376fcfd45a3aafc06ad57c8130f,Back-Office Super,f88e055164974b2c9673eec691112f8b,Back-Office User,078a44a3eadd43778f2193c7544235f5,HR Super,340150b8a9ae4de7a96d49a34e2f1b12,HR User,5d18766426fa41f4ae082d859c4d0576,Inventory Super,ac67f3503a4647dbaa7854f6fc5fb1fc,Inventory User,0fac4c9811ac449d819f1a7650154a5e,Logistic Super,c53e97b5a64c4e3e8fd10a7c90e2781e,Logistic User,9936345066614e4e8b3b328fe52d923d,Marketing User,160b79ab6130426f834a08819a1da8c1,Outlet Super,36e2ab59d0554eb9adece4c581eacb0c,Outlet User,3242ad7980ae4b299f89c7ebe1abde31,Roadshow Super,3772bab57dff41ca8183e0fe83ead231,Roadshow User,295730d6e6cb40dcb66d350418db222b,Servicing User,3a0466cba31e4a0593aa535a99034e67,Warehouse Super,90a41014e38043e08146f3a0820f7198,Warehouse User">
+>
+<[85]<page="summary_pick_list_by_transporter.a5wcmp">
+<action="login">
+<groups="5b66c7f9329a4e098b991f86f36a620e,Administrators,8aa79376fcfd45a3aafc06ad57c8130f,Back-Office Super,f88e055164974b2c9673eec691112f8b,Back-Office User,078a44a3eadd43778f2193c7544235f5,HR Super,340150b8a9ae4de7a96d49a34e2f1b12,HR User,5d18766426fa41f4ae082d859c4d0576,Inventory Super,ac67f3503a4647dbaa7854f6fc5fb1fc,Inventory User,0fac4c9811ac449d819f1a7650154a5e,Logistic Super,c53e97b5a64c4e3e8fd10a7c90e2781e,Logistic User,160b79ab6130426f834a08819a1da8c1,Outlet Super,36e2ab59d0554eb9adece4c581eacb0c,Outlet User,3242ad7980ae4b299f89c7ebe1abde31,Roadshow Super,3772bab57dff41ca8183e0fe83ead231,Roadshow User,9936345066614e4e8b3b328fe52d923d,Servicing Super,295730d6e6cb40dcb66d350418db222b,Servicing User,3a0466cba31e4a0593aa535a99034e67,Warehouse Super,90a41014e38043e08146f3a0820f7198,Warehouse User">
+>
+<[86]<page="summary_pick_list_by_warehouse.a5wcmp">
+<action="login">
+<groups="5b66c7f9329a4e098b991f86f36a620e,Administrators,8aa79376fcfd45a3aafc06ad57c8130f,Back-Office Super,f88e055164974b2c9673eec691112f8b,Back-Office User,078a44a3eadd43778f2193c7544235f5,HR Super,340150b8a9ae4de7a96d49a34e2f1b12,HR User,5d18766426fa41f4ae082d859c4d0576,Inventory Super,ac67f3503a4647dbaa7854f6fc5fb1fc,Inventory User,0fac4c9811ac449d819f1a7650154a5e,Logistic Super,c53e97b5a64c4e3e8fd10a7c90e2781e,Logistic User,160b79ab6130426f834a08819a1da8c1,Outlet Super,36e2ab59d0554eb9adece4c581eacb0c,Outlet User,3242ad7980ae4b299f89c7ebe1abde31,Roadshow Super,3772bab57dff41ca8183e0fe83ead231,Roadshow User,9936345066614e4e8b3b328fe52d923d,Servicing Super,295730d6e6cb40dcb66d350418db222b,Servicing User,3a0466cba31e4a0593aa535a99034e67,Warehouse Super,90a41014e38043e08146f3a0820f7198,Warehouse User">
+>
+<[87]<page="summary_pl_transporter@ogawaa5.alb">
+<action="allow">
+<groups="">
+>
+<[88]<page="summary_pl_warehouse@ogawaa5.alb">
+<action="allow">
+<groups="">
+>
+<[89]<page="transfer_pick_list@ogawaa5.alb">
+<action="allow">
+<groups="">
+>
+<[90]<page="sales_comm_report.a5wcmp">
+<action="login">
+<groups="5b66c7f9329a4e098b991f86f36a620e,Administrators,8aa79376fcfd45a3aafc06ad57c8130f,Back-Office Super,f88e055164974b2c9673eec691112f8b,Back-Office User,078a44a3eadd43778f2193c7544235f5,HR Super,340150b8a9ae4de7a96d49a34e2f1b12,HR User,5d18766426fa41f4ae082d859c4d0576,Inventory Super,ac67f3503a4647dbaa7854f6fc5fb1fc,Inventory User,0fac4c9811ac449d819f1a7650154a5e,Logistic Super,c53e97b5a64c4e3e8fd10a7c90e2781e,Logistic User,160b79ab6130426f834a08819a1da8c1,Outlet Super,36e2ab59d0554eb9adece4c581eacb0c,Outlet User,3242ad7980ae4b299f89c7ebe1abde31,Roadshow Super,3772bab57dff41ca8183e0fe83ead231,Roadshow User,9936345066614e4e8b3b328fe52d923d,Servicing Super,295730d6e6cb40dcb66d350418db222b,Servicing User,3a0466cba31e4a0593aa535a99034e67,Warehouse Super,90a41014e38043e08146f3a0820f7198,Warehouse User">
+>
+<[91]<page="sales_comm_report@ogawaa5.alb">
+<action="allow">
+<groups="">
+>
+<[92]<page="goods_return_note_back@ogawaa5.alb">
+<action="allow">
+<groups="">
+>
+<[93]<page="goods_return_note_front@ogawaa5.alb">
+<action="allow">
+<groups="">
+>
+<[94]<page="sales_comm_open_close.a5wcmp">
+<action="login">
+<groups="5b66c7f9329a4e098b991f86f36a620e,Administrators,8aa79376fcfd45a3aafc06ad57c8130f,Back-Office Super,f88e055164974b2c9673eec691112f8b,Back-Office User,078a44a3eadd43778f2193c7544235f5,HR Super,340150b8a9ae4de7a96d49a34e2f1b12,HR User,5d18766426fa41f4ae082d859c4d0576,Inventory Super,ac67f3503a4647dbaa7854f6fc5fb1fc,Inventory User,0fac4c9811ac449d819f1a7650154a5e,Logistic Super,c53e97b5a64c4e3e8fd10a7c90e2781e,Logistic User,160b79ab6130426f834a08819a1da8c1,Outlet Super,36e2ab59d0554eb9adece4c581eacb0c,Outlet User,3242ad7980ae4b299f89c7ebe1abde31,Roadshow Super,3772bab57dff41ca8183e0fe83ead231,Roadshow User,9936345066614e4e8b3b328fe52d923d,Servicing Super,295730d6e6cb40dcb66d350418db222b,Servicing User,3a0466cba31e4a0593aa535a99034e67,Warehouse Super,90a41014e38043e08146f3a0820f7198,Warehouse User">
+>
+<[95]<page="sales_comm_cancel.a5wcmp">
+<action="login">
+<groups="5b66c7f9329a4e098b991f86f36a620e,Administrators,8aa79376fcfd45a3aafc06ad57c8130f,Back-Office Super,f88e055164974b2c9673eec691112f8b,Back-Office User,078a44a3eadd43778f2193c7544235f5,HR Super,340150b8a9ae4de7a96d49a34e2f1b12,HR User,5d18766426fa41f4ae082d859c4d0576,Inventory Super,ac67f3503a4647dbaa7854f6fc5fb1fc,Inventory User,0fac4c9811ac449d819f1a7650154a5e,Logistic Super,c53e97b5a64c4e3e8fd10a7c90e2781e,Logistic User,160b79ab6130426f834a08819a1da8c1,Outlet Super,36e2ab59d0554eb9adece4c581eacb0c,Outlet User,3242ad7980ae4b299f89c7ebe1abde31,Roadshow Super,3772bab57dff41ca8183e0fe83ead231,Roadshow User,9936345066614e4e8b3b328fe52d923d,Servicing Super,295730d6e6cb40dcb66d350418db222b,Servicing User,3a0466cba31e4a0593aa535a99034e67,Warehouse Super,90a41014e38043e08146f3a0820f7198,Warehouse User">
+>
+<[96]<page="sales_order_resume_cancel.a5wcmp">
+<action="login">
+<groups="5b66c7f9329a4e098b991f86f36a620e,Administrators,8aa79376fcfd45a3aafc06ad57c8130f,Back-Office Super,f88e055164974b2c9673eec691112f8b,Back-Office User,078a44a3eadd43778f2193c7544235f5,HR Super,340150b8a9ae4de7a96d49a34e2f1b12,HR User,5d18766426fa41f4ae082d859c4d0576,Inventory Super,ac67f3503a4647dbaa7854f6fc5fb1fc,Inventory User,0fac4c9811ac449d819f1a7650154a5e,Logistic Super,c53e97b5a64c4e3e8fd10a7c90e2781e,Logistic User,160b79ab6130426f834a08819a1da8c1,Outlet Super,36e2ab59d0554eb9adece4c581eacb0c,Outlet User,3242ad7980ae4b299f89c7ebe1abde31,Roadshow Super,3772bab57dff41ca8183e0fe83ead231,Roadshow User,9936345066614e4e8b3b328fe52d923d,Servicing Super,295730d6e6cb40dcb66d350418db222b,Servicing User,3a0466cba31e4a0593aa535a99034e67,Warehouse Super,90a41014e38043e08146f3a0820f7198,Warehouse User">
+>
+<[97]<page="stock_count.a5wcmp">
+<action="login">
+<groups="5b66c7f9329a4e098b991f86f36a620e,Administrators,8aa79376fcfd45a3aafc06ad57c8130f,Back-Office Super,f88e055164974b2c9673eec691112f8b,Back-Office User,078a44a3eadd43778f2193c7544235f5,HR Super,340150b8a9ae4de7a96d49a34e2f1b12,HR User,5d18766426fa41f4ae082d859c4d0576,Inventory Super,ac67f3503a4647dbaa7854f6fc5fb1fc,Inventory User,0fac4c9811ac449d819f1a7650154a5e,Logistic Super,c53e97b5a64c4e3e8fd10a7c90e2781e,Logistic User,160b79ab6130426f834a08819a1da8c1,Outlet Super,36e2ab59d0554eb9adece4c581eacb0c,Outlet User,3242ad7980ae4b299f89c7ebe1abde31,Roadshow Super,3772bab57dff41ca8183e0fe83ead231,Roadshow User,9936345066614e4e8b3b328fe52d923d,Servicing Super,295730d6e6cb40dcb66d350418db222b,Servicing User,3a0466cba31e4a0593aa535a99034e67,Warehouse Super,90a41014e38043e08146f3a0820f7198,Warehouse User">
+>
+<[98]<page="logistic_return.a5wcmp">
+<action="login">
+<groups="5b66c7f9329a4e098b991f86f36a620e,Administrators,8aa79376fcfd45a3aafc06ad57c8130f,Back-Office Super,f88e055164974b2c9673eec691112f8b,Back-Office User,078a44a3eadd43778f2193c7544235f5,HR Super,340150b8a9ae4de7a96d49a34e2f1b12,HR User,5d18766426fa41f4ae082d859c4d0576,Inventory Super,ac67f3503a4647dbaa7854f6fc5fb1fc,Inventory User,0fac4c9811ac449d819f1a7650154a5e,Logistic Super,c53e97b5a64c4e3e8fd10a7c90e2781e,Logistic User,160b79ab6130426f834a08819a1da8c1,Outlet Super,36e2ab59d0554eb9adece4c581eacb0c,Outlet User,3242ad7980ae4b299f89c7ebe1abde31,Roadshow Super,3772bab57dff41ca8183e0fe83ead231,Roadshow User,9936345066614e4e8b3b328fe52d923d,Servicing Super,295730d6e6cb40dcb66d350418db222b,Servicing User,3a0466cba31e4a0593aa535a99034e67,Warehouse Super,90a41014e38043e08146f3a0820f7198,Warehouse User">
+>
+<[99]<page="picklist_deliveryorder_report.a5wcmp">
+<action="login">
+<groups="5b66c7f9329a4e098b991f86f36a620e,Administrators,8aa79376fcfd45a3aafc06ad57c8130f,Back-Office Super,f88e055164974b2c9673eec691112f8b,Back-Office User,078a44a3eadd43778f2193c7544235f5,HR Super,340150b8a9ae4de7a96d49a34e2f1b12,HR User,5d18766426fa41f4ae082d859c4d0576,Inventory Super,ac67f3503a4647dbaa7854f6fc5fb1fc,Inventory User,0fac4c9811ac449d819f1a7650154a5e,Logistic Super,c53e97b5a64c4e3e8fd10a7c90e2781e,Logistic User,160b79ab6130426f834a08819a1da8c1,Outlet Super,36e2ab59d0554eb9adece4c581eacb0c,Outlet User,3242ad7980ae4b299f89c7ebe1abde31,Roadshow Super,3772bab57dff41ca8183e0fe83ead231,Roadshow User,9936345066614e4e8b3b328fe52d923d,Servicing Super,295730d6e6cb40dcb66d350418db222b,Servicing User,3a0466cba31e4a0593aa535a99034e67,Warehouse Super,90a41014e38043e08146f3a0820f7198,Warehouse User">
+>
+<[100]<page="sales_comm_exc_report@ogawaa5.alb">
+<action="allow">
+<groups="">
+>
+<[101]<page="user_oulet.a5wcmp">
+<action="login">
+<groups="5b66c7f9329a4e098b991f86f36a620e,Administrators,8aa79376fcfd45a3aafc06ad57c8130f,Back-Office Super,f88e055164974b2c9673eec691112f8b,Back-Office User,078a44a3eadd43778f2193c7544235f5,HR Super,340150b8a9ae4de7a96d49a34e2f1b12,HR User,5d18766426fa41f4ae082d859c4d0576,Inventory Super,ac67f3503a4647dbaa7854f6fc5fb1fc,Inventory User,0fac4c9811ac449d819f1a7650154a5e,Logistic Super,c53e97b5a64c4e3e8fd10a7c90e2781e,Logistic User,160b79ab6130426f834a08819a1da8c1,Outlet Super,36e2ab59d0554eb9adece4c581eacb0c,Outlet User,3242ad7980ae4b299f89c7ebe1abde31,Roadshow Super,3772bab57dff41ca8183e0fe83ead231,Roadshow User,9936345066614e4e8b3b328fe52d923d,Servicing Super,295730d6e6cb40dcb66d350418db222b,Servicing User,3a0466cba31e4a0593aa535a99034e67,Warehouse Super,90a41014e38043e08146f3a0820f7198,Warehouse User">
+>
+<[102]<page="deliveryorder_report.a5wcmp">
+<action="login">
+<groups="5b66c7f9329a4e098b991f86f36a620e,Administrators,8aa79376fcfd45a3aafc06ad57c8130f,Back-Office Super,f88e055164974b2c9673eec691112f8b,Back-Office User,078a44a3eadd43778f2193c7544235f5,HR Super,340150b8a9ae4de7a96d49a34e2f1b12,HR User,5d18766426fa41f4ae082d859c4d0576,Inventory Super,ac67f3503a4647dbaa7854f6fc5fb1fc,Inventory User,0fac4c9811ac449d819f1a7650154a5e,Logistic Super,c53e97b5a64c4e3e8fd10a7c90e2781e,Logistic User,9936345066614e4e8b3b328fe52d923d,Marketing User,160b79ab6130426f834a08819a1da8c1,Outlet Super,36e2ab59d0554eb9adece4c581eacb0c,Outlet User,3242ad7980ae4b299f89c7ebe1abde31,Roadshow Super,3772bab57dff41ca8183e0fe83ead231,Roadshow User,295730d6e6cb40dcb66d350418db222b,Servicing User,3a0466cba31e4a0593aa535a99034e67,Warehouse Super,90a41014e38043e08146f3a0820f7198,Warehouse User">
+>
+<[103]<page="sales_order_resume_duplicate_front.a5wcmp">
+<action="login">
+<groups="5b66c7f9329a4e098b991f86f36a620e,Administrators,8aa79376fcfd45a3aafc06ad57c8130f,Back-Office Super,f88e055164974b2c9673eec691112f8b,Back-Office User,078a44a3eadd43778f2193c7544235f5,HR Super,340150b8a9ae4de7a96d49a34e2f1b12,HR User,5d18766426fa41f4ae082d859c4d0576,Inventory Super,ac67f3503a4647dbaa7854f6fc5fb1fc,Inventory User,0fac4c9811ac449d819f1a7650154a5e,Logistic Super,c53e97b5a64c4e3e8fd10a7c90e2781e,Logistic User,160b79ab6130426f834a08819a1da8c1,Outlet Super,36e2ab59d0554eb9adece4c581eacb0c,Outlet User,3242ad7980ae4b299f89c7ebe1abde31,Roadshow Super,3772bab57dff41ca8183e0fe83ead231,Roadshow User,9936345066614e4e8b3b328fe52d923d,Servicing Super,295730d6e6cb40dcb66d350418db222b,Servicing User,3a0466cba31e4a0593aa535a99034e67,Warehouse Super,90a41014e38043e08146f3a0820f7198,Warehouse User">
+>
+<[104]<page="sales_order_resume_front.a5wcmp">
+<action="login">
+<groups="5b66c7f9329a4e098b991f86f36a620e,Administrators,8aa79376fcfd45a3aafc06ad57c8130f,Back-Office Super,f88e055164974b2c9673eec691112f8b,Back-Office User,078a44a3eadd43778f2193c7544235f5,HR Super,340150b8a9ae4de7a96d49a34e2f1b12,HR User,5d18766426fa41f4ae082d859c4d0576,Inventory Super,ac67f3503a4647dbaa7854f6fc5fb1fc,Inventory User,0fac4c9811ac449d819f1a7650154a5e,Logistic Super,c53e97b5a64c4e3e8fd10a7c90e2781e,Logistic User,160b79ab6130426f834a08819a1da8c1,Outlet Super,36e2ab59d0554eb9adece4c581eacb0c,Outlet User,3242ad7980ae4b299f89c7ebe1abde31,Roadshow Super,3772bab57dff41ca8183e0fe83ead231,Roadshow User,9936345066614e4e8b3b328fe52d923d,Servicing Super,295730d6e6cb40dcb66d350418db222b,Servicing User,3a0466cba31e4a0593aa535a99034e67,Warehouse Super,90a41014e38043e08146f3a0820f7198,Warehouse User">
+>
+<[105]<page="transfer_listing.a5wcmp">
+<action="login">
+<groups="5b66c7f9329a4e098b991f86f36a620e,Administrators,8aa79376fcfd45a3aafc06ad57c8130f,Back-Office Super,f88e055164974b2c9673eec691112f8b,Back-Office User,078a44a3eadd43778f2193c7544235f5,HR Super,340150b8a9ae4de7a96d49a34e2f1b12,HR User,5d18766426fa41f4ae082d859c4d0576,Inventory Super,ac67f3503a4647dbaa7854f6fc5fb1fc,Inventory User,0fac4c9811ac449d819f1a7650154a5e,Logistic Super,c53e97b5a64c4e3e8fd10a7c90e2781e,Logistic User,160b79ab6130426f834a08819a1da8c1,Outlet Super,36e2ab59d0554eb9adece4c581eacb0c,Outlet User,3242ad7980ae4b299f89c7ebe1abde31,Roadshow Super,3772bab57dff41ca8183e0fe83ead231,Roadshow User,9936345066614e4e8b3b328fe52d923d,Servicing Super,295730d6e6cb40dcb66d350418db222b,Servicing User,3a0466cba31e4a0593aa535a99034e67,Warehouse Super,90a41014e38043e08146f3a0820f7198,Warehouse User">
+>
+<[106]<page="summary_pl_warehouse2@ogawaa5.alb">
+<action="allow">
+<groups="">
+>
+<[107]<page="transfer_inreprint@ogawaa5.alb">
+<action="allow">
+<groups="">
+>
+<[108]<page="transfer_listing@ogawaa5.alb">
+<action="allow">
+<groups="">
+>
+<[109]<page="transfer_outreprint@ogawaa5.alb">
+<action="allow">
+<groups="">
+>
+<[110]<page="sales_order_logistic_edit.a5wcmp">
+<action="login">
+<groups="5b66c7f9329a4e098b991f86f36a620e,Administrators,8aa79376fcfd45a3aafc06ad57c8130f,Back-Office Super,f88e055164974b2c9673eec691112f8b,Back-Office User,078a44a3eadd43778f2193c7544235f5,HR Super,340150b8a9ae4de7a96d49a34e2f1b12,HR User,5d18766426fa41f4ae082d859c4d0576,Inventory Super,ac67f3503a4647dbaa7854f6fc5fb1fc,Inventory User,0fac4c9811ac449d819f1a7650154a5e,Logistic Super,c53e97b5a64c4e3e8fd10a7c90e2781e,Logistic User,160b79ab6130426f834a08819a1da8c1,Outlet Super,36e2ab59d0554eb9adece4c581eacb0c,Outlet User,3242ad7980ae4b299f89c7ebe1abde31,Roadshow Super,3772bab57dff41ca8183e0fe83ead231,Roadshow User,9936345066614e4e8b3b328fe52d923d,Servicing Super,295730d6e6cb40dcb66d350418db222b,Servicing User,3a0466cba31e4a0593aa535a99034e67,Warehouse Super,90a41014e38043e08146f3a0820f7198,Warehouse User">
+>
+<[111]<page="sales_order_resume_edit.a5wcmp">
+<action="login">
+<groups="5b66c7f9329a4e098b991f86f36a620e,Administrators,8aa79376fcfd45a3aafc06ad57c8130f,Back-Office Super,f88e055164974b2c9673eec691112f8b,Back-Office User,078a44a3eadd43778f2193c7544235f5,HR Super,340150b8a9ae4de7a96d49a34e2f1b12,HR User,5d18766426fa41f4ae082d859c4d0576,Inventory Super,ac67f3503a4647dbaa7854f6fc5fb1fc,Inventory User,0fac4c9811ac449d819f1a7650154a5e,Logistic Super,c53e97b5a64c4e3e8fd10a7c90e2781e,Logistic User,160b79ab6130426f834a08819a1da8c1,Outlet Super,36e2ab59d0554eb9adece4c581eacb0c,Outlet User,3242ad7980ae4b299f89c7ebe1abde31,Roadshow Super,3772bab57dff41ca8183e0fe83ead231,Roadshow User,9936345066614e4e8b3b328fe52d923d,Servicing Super,295730d6e6cb40dcb66d350418db222b,Servicing User,3a0466cba31e4a0593aa535a99034e67,Warehouse Super,90a41014e38043e08146f3a0820f7198,Warehouse User">
+>
+<[112]<page="stock_count@ogawaa5.alb">
+<action="allow">
+<groups="">
+>
+<[113]<page="reprint_invoice.a5wcmp">
+<action="login">
+<groups="5b66c7f9329a4e098b991f86f36a620e,Administrators,8aa79376fcfd45a3aafc06ad57c8130f,Back-Office Super,f88e055164974b2c9673eec691112f8b,Back-Office User,078a44a3eadd43778f2193c7544235f5,HR Super,340150b8a9ae4de7a96d49a34e2f1b12,HR User,5d18766426fa41f4ae082d859c4d0576,Inventory Super,ac67f3503a4647dbaa7854f6fc5fb1fc,Inventory User,0fac4c9811ac449d819f1a7650154a5e,Logistic Super,c53e97b5a64c4e3e8fd10a7c90e2781e,Logistic User,160b79ab6130426f834a08819a1da8c1,Outlet Super,36e2ab59d0554eb9adece4c581eacb0c,Outlet User,3242ad7980ae4b299f89c7ebe1abde31,Roadshow Super,3772bab57dff41ca8183e0fe83ead231,Roadshow User,9936345066614e4e8b3b328fe52d923d,Servicing Super,295730d6e6cb40dcb66d350418db222b,Servicing User,3a0466cba31e4a0593aa535a99034e67,Warehouse Super,90a41014e38043e08146f3a0820f7198,Warehouse User">
+>
+<[114]<page="index_processing.a5w">
+<action="allow">
+<groups="">
+>
+<[115]<page="sales_order_resume_duplicate_front.a5w">
+<action="login">
+<groups="5b66c7f9329a4e098b991f86f36a620e,Administrators,8aa79376fcfd45a3aafc06ad57c8130f,Back-Office Super,f88e055164974b2c9673eec691112f8b,Back-Office User,078a44a3eadd43778f2193c7544235f5,HR Super,340150b8a9ae4de7a96d49a34e2f1b12,HR User,5d18766426fa41f4ae082d859c4d0576,Inventory Super,ac67f3503a4647dbaa7854f6fc5fb1fc,Inventory User,0fac4c9811ac449d819f1a7650154a5e,Logistic Super,c53e97b5a64c4e3e8fd10a7c90e2781e,Logistic User,160b79ab6130426f834a08819a1da8c1,Outlet Super,36e2ab59d0554eb9adece4c581eacb0c,Outlet User,3242ad7980ae4b299f89c7ebe1abde31,Roadshow Super,3772bab57dff41ca8183e0fe83ead231,Roadshow User,9936345066614e4e8b3b328fe52d923d,Servicing Super,295730d6e6cb40dcb66d350418db222b,Servicing User,3a0466cba31e4a0593aa535a99034e67,Warehouse Super,90a41014e38043e08146f3a0820f7198,Warehouse User">
+>
+<[116]<page="customer_payment_report.a5wcmp">
+<action="login">
+<groups="5b66c7f9329a4e098b991f86f36a620e,Administrators,8aa79376fcfd45a3aafc06ad57c8130f,Back-Office Super,f88e055164974b2c9673eec691112f8b,Back-Office User,078a44a3eadd43778f2193c7544235f5,HR Super,340150b8a9ae4de7a96d49a34e2f1b12,HR User,5d18766426fa41f4ae082d859c4d0576,Inventory Super,ac67f3503a4647dbaa7854f6fc5fb1fc,Inventory User,0fac4c9811ac449d819f1a7650154a5e,Logistic Super,c53e97b5a64c4e3e8fd10a7c90e2781e,Logistic User,9936345066614e4e8b3b328fe52d923d,Marketing User,160b79ab6130426f834a08819a1da8c1,Outlet Super,36e2ab59d0554eb9adece4c581eacb0c,Outlet User,3242ad7980ae4b299f89c7ebe1abde31,Roadshow Super,3772bab57dff41ca8183e0fe83ead231,Roadshow User,295730d6e6cb40dcb66d350418db222b,Servicing User,3a0466cba31e4a0593aa535a99034e67,Warehouse Super,90a41014e38043e08146f3a0820f7198,Warehouse User">
+>
+<[117]<page="sales_order_status.a5wcmp">
+<action="login">
+<groups="5b66c7f9329a4e098b991f86f36a620e,Administrators,8aa79376fcfd45a3aafc06ad57c8130f,Back-Office Super,f88e055164974b2c9673eec691112f8b,Back-Office User,078a44a3eadd43778f2193c7544235f5,HR Super,340150b8a9ae4de7a96d49a34e2f1b12,HR User,5d18766426fa41f4ae082d859c4d0576,Inventory Super,ac67f3503a4647dbaa7854f6fc5fb1fc,Inventory User,0fac4c9811ac449d819f1a7650154a5e,Logistic Super,c53e97b5a64c4e3e8fd10a7c90e2781e,Logistic User,160b79ab6130426f834a08819a1da8c1,Outlet Super,36e2ab59d0554eb9adece4c581eacb0c,Outlet User,3242ad7980ae4b299f89c7ebe1abde31,Roadshow Super,3772bab57dff41ca8183e0fe83ead231,Roadshow User,9936345066614e4e8b3b328fe52d923d,Servicing Super,295730d6e6cb40dcb66d350418db222b,Servicing User,3a0466cba31e4a0593aa535a99034e67,Warehouse Super,90a41014e38043e08146f3a0820f7198,Warehouse User">
+>
+<[118]<page="customer_payment_report@ogawaa5.alb">
+<action="allow">
+<groups="">
+>
+<[119]<page="sales_order_logistic_reject.a5wcmp">
+<action="login">
+<groups="5b66c7f9329a4e098b991f86f36a620e,Administrators,8aa79376fcfd45a3aafc06ad57c8130f,Back-Office Super,f88e055164974b2c9673eec691112f8b,Back-Office User,078a44a3eadd43778f2193c7544235f5,HR Super,340150b8a9ae4de7a96d49a34e2f1b12,HR User,5d18766426fa41f4ae082d859c4d0576,Inventory Super,ac67f3503a4647dbaa7854f6fc5fb1fc,Inventory User,0fac4c9811ac449d819f1a7650154a5e,Logistic Super,c53e97b5a64c4e3e8fd10a7c90e2781e,Logistic User,160b79ab6130426f834a08819a1da8c1,Outlet Super,36e2ab59d0554eb9adece4c581eacb0c,Outlet User,3242ad7980ae4b299f89c7ebe1abde31,Roadshow Super,3772bab57dff41ca8183e0fe83ead231,Roadshow User,9936345066614e4e8b3b328fe52d923d,Servicing Super,295730d6e6cb40dcb66d350418db222b,Servicing User,3a0466cba31e4a0593aa535a99034e67,Warehouse Super,90a41014e38043e08146f3a0820f7198,Warehouse User">
+>
+<[120]<page="sales_marketing_item_report.a5wcmp">
+<action="login">
+<groups="5b66c7f9329a4e098b991f86f36a620e,Administrators,8aa79376fcfd45a3aafc06ad57c8130f,Back-Office Super,f88e055164974b2c9673eec691112f8b,Back-Office User,078a44a3eadd43778f2193c7544235f5,HR Super,340150b8a9ae4de7a96d49a34e2f1b12,HR User,5d18766426fa41f4ae082d859c4d0576,Inventory Super,ac67f3503a4647dbaa7854f6fc5fb1fc,Inventory User,0fac4c9811ac449d819f1a7650154a5e,Logistic Super,c53e97b5a64c4e3e8fd10a7c90e2781e,Logistic User,160b79ab6130426f834a08819a1da8c1,Outlet Super,36e2ab59d0554eb9adece4c581eacb0c,Outlet User,3242ad7980ae4b299f89c7ebe1abde31,Roadshow Super,3772bab57dff41ca8183e0fe83ead231,Roadshow User,9936345066614e4e8b3b328fe52d923d,Servicing Super,295730d6e6cb40dcb66d350418db222b,Servicing User,3a0466cba31e4a0593aa535a99034e67,Warehouse Super,90a41014e38043e08146f3a0820f7198,Warehouse User">
+>
+<[121]<page="sales_item_report@ogawaa5.alb">
+<action="allow">
+<groups="">
+>
+<[122]<page="outstanding_transfer.a5wcmp">
+<action="login">
+<groups="5b66c7f9329a4e098b991f86f36a620e,Administrators,8aa79376fcfd45a3aafc06ad57c8130f,Back-Office Super,f88e055164974b2c9673eec691112f8b,Back-Office User,078a44a3eadd43778f2193c7544235f5,HR Super,340150b8a9ae4de7a96d49a34e2f1b12,HR User,5d18766426fa41f4ae082d859c4d0576,Inventory Super,ac67f3503a4647dbaa7854f6fc5fb1fc,Inventory User,0fac4c9811ac449d819f1a7650154a5e,Logistic Super,c53e97b5a64c4e3e8fd10a7c90e2781e,Logistic User,160b79ab6130426f834a08819a1da8c1,Outlet Super,36e2ab59d0554eb9adece4c581eacb0c,Outlet User,3242ad7980ae4b299f89c7ebe1abde31,Roadshow Super,3772bab57dff41ca8183e0fe83ead231,Roadshow User,9936345066614e4e8b3b328fe52d923d,Servicing Super,295730d6e6cb40dcb66d350418db222b,Servicing User,3a0466cba31e4a0593aa535a99034e67,Warehouse Super,90a41014e38043e08146f3a0820f7198,Warehouse User">
+>
+<[123]<page="sales_marketing_payment_report.a5wcmp">
+<action="login">
+<groups="5b66c7f9329a4e098b991f86f36a620e,Administrators,8aa79376fcfd45a3aafc06ad57c8130f,Back-Office Super,f88e055164974b2c9673eec691112f8b,Back-Office User,078a44a3eadd43778f2193c7544235f5,HR Super,340150b8a9ae4de7a96d49a34e2f1b12,HR User,5d18766426fa41f4ae082d859c4d0576,Inventory Super,ac67f3503a4647dbaa7854f6fc5fb1fc,Inventory User,0fac4c9811ac449d819f1a7650154a5e,Logistic Super,c53e97b5a64c4e3e8fd10a7c90e2781e,Logistic User,160b79ab6130426f834a08819a1da8c1,Outlet Super,36e2ab59d0554eb9adece4c581eacb0c,Outlet User,3242ad7980ae4b299f89c7ebe1abde31,Roadshow Super,3772bab57dff41ca8183e0fe83ead231,Roadshow User,9936345066614e4e8b3b328fe52d923d,Servicing Super,295730d6e6cb40dcb66d350418db222b,Servicing User,3a0466cba31e4a0593aa535a99034e67,Warehouse Super,90a41014e38043e08146f3a0820f7198,Warehouse User">
+>
+<[124]<page="sales_payment_report@ogawaa5.alb">
+<action="allow">
+<groups="">
+>
+<[125]<page="sales_bonus_report.a5wcmp">
+<action="login">
+<groups="5b66c7f9329a4e098b991f86f36a620e,Administrators,8aa79376fcfd45a3aafc06ad57c8130f,Back-Office Super,f88e055164974b2c9673eec691112f8b,Back-Office User,078a44a3eadd43778f2193c7544235f5,HR Super,340150b8a9ae4de7a96d49a34e2f1b12,HR User,5d18766426fa41f4ae082d859c4d0576,Inventory Super,ac67f3503a4647dbaa7854f6fc5fb1fc,Inventory User,0fac4c9811ac449d819f1a7650154a5e,Logistic Super,c53e97b5a64c4e3e8fd10a7c90e2781e,Logistic User,160b79ab6130426f834a08819a1da8c1,Outlet Super,36e2ab59d0554eb9adece4c581eacb0c,Outlet User,3242ad7980ae4b299f89c7ebe1abde31,Roadshow Super,3772bab57dff41ca8183e0fe83ead231,Roadshow User,9936345066614e4e8b3b328fe52d923d,Servicing Super,295730d6e6cb40dcb66d350418db222b,Servicing User,3a0466cba31e4a0593aa535a99034e67,Warehouse Super,90a41014e38043e08146f3a0820f7198,Warehouse User">
+>
+<[126]<page="sales_bonus_report@ogawaa5.alb">
+<action="allow">
+<groups="">
+>
+<[127]<page="index_ux_roadshow.a5wcmp">
+<action="login">
+<groups="5b66c7f9329a4e098b991f86f36a620e,Administrators,8aa79376fcfd45a3aafc06ad57c8130f,Back-Office Super,f88e055164974b2c9673eec691112f8b,Back-Office User,078a44a3eadd43778f2193c7544235f5,HR Super,340150b8a9ae4de7a96d49a34e2f1b12,HR User,5d18766426fa41f4ae082d859c4d0576,Inventory Super,ac67f3503a4647dbaa7854f6fc5fb1fc,Inventory User,0fac4c9811ac449d819f1a7650154a5e,Logistic Super,c53e97b5a64c4e3e8fd10a7c90e2781e,Logistic User,160b79ab6130426f834a08819a1da8c1,Outlet Super,36e2ab59d0554eb9adece4c581eacb0c,Outlet User,3242ad7980ae4b299f89c7ebe1abde31,Roadshow Super,3772bab57dff41ca8183e0fe83ead231,Roadshow User,9936345066614e4e8b3b328fe52d923d,Servicing Super,295730d6e6cb40dcb66d350418db222b,Servicing User,3a0466cba31e4a0593aa535a99034e67,Warehouse Super,90a41014e38043e08146f3a0820f7198,Warehouse User">
+>
+<[128]<page="weekly_creditcard_report.a5wcmp">
+<action="login">
+<groups="5b66c7f9329a4e098b991f86f36a620e,Administrators,8aa79376fcfd45a3aafc06ad57c8130f,Back-Office Super,f88e055164974b2c9673eec691112f8b,Back-Office User,078a44a3eadd43778f2193c7544235f5,HR Super,340150b8a9ae4de7a96d49a34e2f1b12,HR User,5d18766426fa41f4ae082d859c4d0576,Inventory Super,ac67f3503a4647dbaa7854f6fc5fb1fc,Inventory User,0fac4c9811ac449d819f1a7650154a5e,Logistic Super,c53e97b5a64c4e3e8fd10a7c90e2781e,Logistic User,160b79ab6130426f834a08819a1da8c1,Outlet Super,36e2ab59d0554eb9adece4c581eacb0c,Outlet User,3242ad7980ae4b299f89c7ebe1abde31,Roadshow Super,3772bab57dff41ca8183e0fe83ead231,Roadshow User,9936345066614e4e8b3b328fe52d923d,Servicing Super,295730d6e6cb40dcb66d350418db222b,Servicing User,3a0466cba31e4a0593aa535a99034e67,Warehouse Super,90a41014e38043e08146f3a0820f7198,Warehouse User">
+>
+<[129]<page="weekly_creditcard_report@ogawaa5.alb">
+<action="allow">
+<groups="">
+>
+<[130]<page="weekly_debitcard_report.a5wcmp">
+<action="login">
+<groups="5b66c7f9329a4e098b991f86f36a620e,Administrators,8aa79376fcfd45a3aafc06ad57c8130f,Back-Office Super,f88e055164974b2c9673eec691112f8b,Back-Office User,078a44a3eadd43778f2193c7544235f5,HR Super,340150b8a9ae4de7a96d49a34e2f1b12,HR User,5d18766426fa41f4ae082d859c4d0576,Inventory Super,ac67f3503a4647dbaa7854f6fc5fb1fc,Inventory User,0fac4c9811ac449d819f1a7650154a5e,Logistic Super,c53e97b5a64c4e3e8fd10a7c90e2781e,Logistic User,160b79ab6130426f834a08819a1da8c1,Outlet Super,36e2ab59d0554eb9adece4c581eacb0c,Outlet User,3242ad7980ae4b299f89c7ebe1abde31,Roadshow Super,3772bab57dff41ca8183e0fe83ead231,Roadshow User,9936345066614e4e8b3b328fe52d923d,Servicing Super,295730d6e6cb40dcb66d350418db222b,Servicing User,3a0466cba31e4a0593aa535a99034e67,Warehouse Super,90a41014e38043e08146f3a0820f7198,Warehouse User">
+>
+<[131]<page="weekly_debitcard_report@ogawaa5.alb">
+<action="allow">
+<groups="">
+>
+<[132]<page="weekly_voucher_report.a5wcmp">
+<action="login">
+<groups="5b66c7f9329a4e098b991f86f36a620e,Administrators,8aa79376fcfd45a3aafc06ad57c8130f,Back-Office Super,f88e055164974b2c9673eec691112f8b,Back-Office User,078a44a3eadd43778f2193c7544235f5,HR Super,340150b8a9ae4de7a96d49a34e2f1b12,HR User,5d18766426fa41f4ae082d859c4d0576,Inventory Super,ac67f3503a4647dbaa7854f6fc5fb1fc,Inventory User,0fac4c9811ac449d819f1a7650154a5e,Logistic Super,c53e97b5a64c4e3e8fd10a7c90e2781e,Logistic User,160b79ab6130426f834a08819a1da8c1,Outlet Super,36e2ab59d0554eb9adece4c581eacb0c,Outlet User,3242ad7980ae4b299f89c7ebe1abde31,Roadshow Super,3772bab57dff41ca8183e0fe83ead231,Roadshow User,9936345066614e4e8b3b328fe52d923d,Servicing Super,295730d6e6cb40dcb66d350418db222b,Servicing User,3a0466cba31e4a0593aa535a99034e67,Warehouse Super,90a41014e38043e08146f3a0820f7198,Warehouse User">
+>
+<[133]<page="weekly_voucher_report@ogawaa5.alb">
+<action="allow">
+<groups="">
+>
+<[134]<page="daliy_sales_report.a5wcmp">
+<action="login">
+<groups="5b66c7f9329a4e098b991f86f36a620e,Administrators,8aa79376fcfd45a3aafc06ad57c8130f,Back-Office Super,f88e055164974b2c9673eec691112f8b,Back-Office User,078a44a3eadd43778f2193c7544235f5,HR Super,340150b8a9ae4de7a96d49a34e2f1b12,HR User,5d18766426fa41f4ae082d859c4d0576,Inventory Super,ac67f3503a4647dbaa7854f6fc5fb1fc,Inventory User,0fac4c9811ac449d819f1a7650154a5e,Logistic Super,c53e97b5a64c4e3e8fd10a7c90e2781e,Logistic User,9936345066614e4e8b3b328fe52d923d,Marketing User,160b79ab6130426f834a08819a1da8c1,Outlet Super,36e2ab59d0554eb9adece4c581eacb0c,Outlet User,3242ad7980ae4b299f89c7ebe1abde31,Roadshow Super,3772bab57dff41ca8183e0fe83ead231,Roadshow User,295730d6e6cb40dcb66d350418db222b,Servicing User,3a0466cba31e4a0593aa535a99034e67,Warehouse Super,90a41014e38043e08146f3a0820f7198,Warehouse User">
+>
+<[135]<page="daliy_sales_report@ogawaa5.alb">
+<action="allow">
+<groups="">
+>
+<[136]<page="delivery_request@ogawaa5.alb">
+<action="allow">
+<groups="">
+>
+<[137]<page="lt_delivery_request@ogawaa5.alb">
+<action="allow">
+<groups="">
+>
+<[138]<page="gst_date.a5wcmp">
+<action="login">
+<groups="5b66c7f9329a4e098b991f86f36a620e,Administrators,8aa79376fcfd45a3aafc06ad57c8130f,Back-Office Super,f88e055164974b2c9673eec691112f8b,Back-Office User,078a44a3eadd43778f2193c7544235f5,HR Super,340150b8a9ae4de7a96d49a34e2f1b12,HR User,5d18766426fa41f4ae082d859c4d0576,Inventory Super,ac67f3503a4647dbaa7854f6fc5fb1fc,Inventory User,0fac4c9811ac449d819f1a7650154a5e,Logistic Super,c53e97b5a64c4e3e8fd10a7c90e2781e,Logistic User,160b79ab6130426f834a08819a1da8c1,Outlet Super,36e2ab59d0554eb9adece4c581eacb0c,Outlet User,3242ad7980ae4b299f89c7ebe1abde31,Roadshow Super,3772bab57dff41ca8183e0fe83ead231,Roadshow User,9936345066614e4e8b3b328fe52d923d,Servicing Super,295730d6e6cb40dcb66d350418db222b,Servicing User,3a0466cba31e4a0593aa535a99034e67,Warehouse Super,90a41014e38043e08146f3a0820f7198,Warehouse User">
+>
+<[139]<page="cerdit_note_settldisc@ogawaa5.alb">
+<action="allow">
+<groups="">
+>
+<[140]<page="tax_invoice_MY@ogawaa5.alb">
+<action="allow">
+<groups="">
+>
+<[141]<page="sales_rep1@ogawaa5.alb">
+<action="allow">
+<groups="">
+>
+<[142]<page="sales_rep2@ogawaa5.alb">
+<action="allow">
+<groups="">
+>
+<[143]<page="sales_rep3@ogawaa5.alb">
+<action="allow">
+<groups="">
+>
+<[144]<page="sales_rep4@ogawaa5.alb">
+<action="allow">
+<groups="">
+>
+<[145]<page="userid@ogawaa5.alb">
+<action="allow">
+<groups="">
+>
+<[146]<page="services_change@ogawaa5.alb">
+<action="allow">
+<groups="">
+>
+<[147]<page="services_changes.a5wcmp">
+<action="login">
+<groups="5b66c7f9329a4e098b991f86f36a620e,Administrators,8aa79376fcfd45a3aafc06ad57c8130f,Back-Office Super,f88e055164974b2c9673eec691112f8b,Back-Office User,078a44a3eadd43778f2193c7544235f5,HR Super,340150b8a9ae4de7a96d49a34e2f1b12,HR User,5d18766426fa41f4ae082d859c4d0576,Inventory Super,ac67f3503a4647dbaa7854f6fc5fb1fc,Inventory User,0fac4c9811ac449d819f1a7650154a5e,Logistic Super,c53e97b5a64c4e3e8fd10a7c90e2781e,Logistic User,160b79ab6130426f834a08819a1da8c1,Outlet Super,36e2ab59d0554eb9adece4c581eacb0c,Outlet User,3242ad7980ae4b299f89c7ebe1abde31,Roadshow Super,3772bab57dff41ca8183e0fe83ead231,Roadshow User,9936345066614e4e8b3b328fe52d923d,Servicing Super,295730d6e6cb40dcb66d350418db222b,Servicing User,3a0466cba31e4a0593aa535a99034e67,Warehouse Super,90a41014e38043e08146f3a0820f7198,Warehouse User">
+>
+<[148]<page="sales_order_resume_payment.a5wcmp">
+<action="login">
+<groups="5b66c7f9329a4e098b991f86f36a620e,Administrators,8aa79376fcfd45a3aafc06ad57c8130f,Back-Office Super,f88e055164974b2c9673eec691112f8b,Back-Office User,078a44a3eadd43778f2193c7544235f5,HR Super,340150b8a9ae4de7a96d49a34e2f1b12,HR User,5d18766426fa41f4ae082d859c4d0576,Inventory Super,ac67f3503a4647dbaa7854f6fc5fb1fc,Inventory User,0fac4c9811ac449d819f1a7650154a5e,Logistic Super,c53e97b5a64c4e3e8fd10a7c90e2781e,Logistic User,160b79ab6130426f834a08819a1da8c1,Outlet Super,36e2ab59d0554eb9adece4c581eacb0c,Outlet User,3242ad7980ae4b299f89c7ebe1abde31,Roadshow Super,3772bab57dff41ca8183e0fe83ead231,Roadshow User,9936345066614e4e8b3b328fe52d923d,Servicing Super,295730d6e6cb40dcb66d350418db222b,Servicing User,3a0466cba31e4a0593aa535a99034e67,Warehouse Super,90a41014e38043e08146f3a0820f7198,Warehouse User">
+>
+<[149]<page="sales_order_resume_payment_edit.a5wcmp">
+<action="login">
+<groups="5b66c7f9329a4e098b991f86f36a620e,Administrators,8aa79376fcfd45a3aafc06ad57c8130f,Back-Office Super,f88e055164974b2c9673eec691112f8b,Back-Office User,078a44a3eadd43778f2193c7544235f5,HR Super,340150b8a9ae4de7a96d49a34e2f1b12,HR User,5d18766426fa41f4ae082d859c4d0576,Inventory Super,ac67f3503a4647dbaa7854f6fc5fb1fc,Inventory User,0fac4c9811ac449d819f1a7650154a5e,Logistic Super,c53e97b5a64c4e3e8fd10a7c90e2781e,Logistic User,160b79ab6130426f834a08819a1da8c1,Outlet Super,36e2ab59d0554eb9adece4c581eacb0c,Outlet User,3242ad7980ae4b299f89c7ebe1abde31,Roadshow Super,3772bab57dff41ca8183e0fe83ead231,Roadshow User,9936345066614e4e8b3b328fe52d923d,Servicing Super,295730d6e6cb40dcb66d350418db222b,Servicing User,3a0466cba31e4a0593aa535a99034e67,Warehouse Super,90a41014e38043e08146f3a0820f7198,Warehouse User">
+>
+<[150]<page="outlettel@ogawaa5.alb">
+<action="allow">
+<groups="">
+>
+<[151]<page="ar_report@ogawaa5.alb">
+<action="allow">
+<groups="">
+>
+<[152]<page="ar_report.a5wcmp">
+<action="login">
+<groups="5b66c7f9329a4e098b991f86f36a620e,Administrators,8aa79376fcfd45a3aafc06ad57c8130f,Back-Office Super,f88e055164974b2c9673eec691112f8b,Back-Office User,078a44a3eadd43778f2193c7544235f5,HR Super,340150b8a9ae4de7a96d49a34e2f1b12,HR User,5d18766426fa41f4ae082d859c4d0576,Inventory Super,ac67f3503a4647dbaa7854f6fc5fb1fc,Inventory User,0fac4c9811ac449d819f1a7650154a5e,Logistic Super,c53e97b5a64c4e3e8fd10a7c90e2781e,Logistic User,9936345066614e4e8b3b328fe52d923d,Marketing User,160b79ab6130426f834a08819a1da8c1,Outlet Super,36e2ab59d0554eb9adece4c581eacb0c,Outlet User,3242ad7980ae4b299f89c7ebe1abde31,Roadshow Super,3772bab57dff41ca8183e0fe83ead231,Roadshow User,295730d6e6cb40dcb66d350418db222b,Servicing User,3a0466cba31e4a0593aa535a99034e67,Warehouse Super,90a41014e38043e08146f3a0820f7198,Warehouse User">
+>
+<[153]<page="weekly_creditcard_back@ogawaa5.alb">
+<action="allow">
+<groups="">
+>
+<[154]<page="weekly_creditcard_back.a5wcmp">
+<action="login">
+<groups="5b66c7f9329a4e098b991f86f36a620e,Administrators,8aa79376fcfd45a3aafc06ad57c8130f,Back-Office Super,f88e055164974b2c9673eec691112f8b,Back-Office User,078a44a3eadd43778f2193c7544235f5,HR Super,340150b8a9ae4de7a96d49a34e2f1b12,HR User,5d18766426fa41f4ae082d859c4d0576,Inventory Super,ac67f3503a4647dbaa7854f6fc5fb1fc,Inventory User,0fac4c9811ac449d819f1a7650154a5e,Logistic Super,c53e97b5a64c4e3e8fd10a7c90e2781e,Logistic User,160b79ab6130426f834a08819a1da8c1,Outlet Super,36e2ab59d0554eb9adece4c581eacb0c,Outlet User,3242ad7980ae4b299f89c7ebe1abde31,Roadshow Super,3772bab57dff41ca8183e0fe83ead231,Roadshow User,9936345066614e4e8b3b328fe52d923d,Servicing Super,295730d6e6cb40dcb66d350418db222b,Servicing User,3a0466cba31e4a0593aa535a99034e67,Warehouse Super,90a41014e38043e08146f3a0820f7198,Warehouse User">
+>
+<[155]<page="weekly_voucher_back@ogawaa5.alb">
+<action="allow">
+<groups="">
+>
+<[156]<page="weekly_voucher_back.a5wcmp">
+<action="login">
+<groups="5b66c7f9329a4e098b991f86f36a620e,Administrators,8aa79376fcfd45a3aafc06ad57c8130f,Back-Office Super,f88e055164974b2c9673eec691112f8b,Back-Office User,078a44a3eadd43778f2193c7544235f5,HR Super,340150b8a9ae4de7a96d49a34e2f1b12,HR User,5d18766426fa41f4ae082d859c4d0576,Inventory Super,ac67f3503a4647dbaa7854f6fc5fb1fc,Inventory User,0fac4c9811ac449d819f1a7650154a5e,Logistic Super,c53e97b5a64c4e3e8fd10a7c90e2781e,Logistic User,160b79ab6130426f834a08819a1da8c1,Outlet Super,36e2ab59d0554eb9adece4c581eacb0c,Outlet User,3242ad7980ae4b299f89c7ebe1abde31,Roadshow Super,3772bab57dff41ca8183e0fe83ead231,Roadshow User,9936345066614e4e8b3b328fe52d923d,Servicing Super,295730d6e6cb40dcb66d350418db222b,Servicing User,3a0466cba31e4a0593aa535a99034e67,Warehouse Super,90a41014e38043e08146f3a0820f7198,Warehouse User">
+>
+<[157]<page="daliy_sales_back.a5wcmp">
+<action="login">
+<groups="5b66c7f9329a4e098b991f86f36a620e,Administrators,8aa79376fcfd45a3aafc06ad57c8130f,Back-Office Super,f88e055164974b2c9673eec691112f8b,Back-Office User,078a44a3eadd43778f2193c7544235f5,HR Super,340150b8a9ae4de7a96d49a34e2f1b12,HR User,5d18766426fa41f4ae082d859c4d0576,Inventory Super,ac67f3503a4647dbaa7854f6fc5fb1fc,Inventory User,0fac4c9811ac449d819f1a7650154a5e,Logistic Super,c53e97b5a64c4e3e8fd10a7c90e2781e,Logistic User,9936345066614e4e8b3b328fe52d923d,Marketing User,160b79ab6130426f834a08819a1da8c1,Outlet Super,36e2ab59d0554eb9adece4c581eacb0c,Outlet User,3242ad7980ae4b299f89c7ebe1abde31,Roadshow Super,3772bab57dff41ca8183e0fe83ead231,Roadshow User,295730d6e6cb40dcb66d350418db222b,Servicing User,3a0466cba31e4a0593aa535a99034e67,Warehouse Super,90a41014e38043e08146f3a0820f7198,Warehouse User">
+>
+<[158]<page="daliy_sales_back@ogawaa5.alb">
+<action="allow">
+<groups="">
+>
+<[159]<page="stock_balance_ocs@ogawaa5.alb">
+<action="allow">
+<groups="">
+>
+<[160]<page="stock_balance_report_ocs.a5wcmp">
+<action="login">
+<groups="5b66c7f9329a4e098b991f86f36a620e,Administrators,8aa79376fcfd45a3aafc06ad57c8130f,Back-Office Super,f88e055164974b2c9673eec691112f8b,Back-Office User,078a44a3eadd43778f2193c7544235f5,HR Super,340150b8a9ae4de7a96d49a34e2f1b12,HR User,5d18766426fa41f4ae082d859c4d0576,Inventory Super,ac67f3503a4647dbaa7854f6fc5fb1fc,Inventory User,0fac4c9811ac449d819f1a7650154a5e,Logistic Super,c53e97b5a64c4e3e8fd10a7c90e2781e,Logistic User,160b79ab6130426f834a08819a1da8c1,Outlet Super,36e2ab59d0554eb9adece4c581eacb0c,Outlet User,3242ad7980ae4b299f89c7ebe1abde31,Roadshow Super,3772bab57dff41ca8183e0fe83ead231,Roadshow User,9936345066614e4e8b3b328fe52d923d,Servicing Super,295730d6e6cb40dcb66d350418db222b,Servicing User,3a0466cba31e4a0593aa535a99034e67,Warehouse Super,90a41014e38043e08146f3a0820f7198,Warehouse User">
+>
+<[161]<page="discount.a5wcmp">
+<action="login">
+<groups="5b66c7f9329a4e098b991f86f36a620e,Administrators,8aa79376fcfd45a3aafc06ad57c8130f,Back-Office Super,f88e055164974b2c9673eec691112f8b,Back-Office User,078a44a3eadd43778f2193c7544235f5,HR Super,340150b8a9ae4de7a96d49a34e2f1b12,HR User,5d18766426fa41f4ae082d859c4d0576,Inventory Super,ac67f3503a4647dbaa7854f6fc5fb1fc,Inventory User,0fac4c9811ac449d819f1a7650154a5e,Logistic Super,c53e97b5a64c4e3e8fd10a7c90e2781e,Logistic User,9936345066614e4e8b3b328fe52d923d,Marketing User,160b79ab6130426f834a08819a1da8c1,Outlet Super,36e2ab59d0554eb9adece4c581eacb0c,Outlet User,3242ad7980ae4b299f89c7ebe1abde31,Roadshow Super,3772bab57dff41ca8183e0fe83ead231,Roadshow User,295730d6e6cb40dcb66d350418db222b,Servicing User,3a0466cba31e4a0593aa535a99034e67,Warehouse Super,90a41014e38043e08146f3a0820f7198,Warehouse User">
+>
+<[162]<page="sbo_stockitem_stock_count.a5wcmp">
+<action="login">
+<groups="5b66c7f9329a4e098b991f86f36a620e,Administrators,8aa79376fcfd45a3aafc06ad57c8130f,Back-Office Super,f88e055164974b2c9673eec691112f8b,Back-Office User,078a44a3eadd43778f2193c7544235f5,HR Super,340150b8a9ae4de7a96d49a34e2f1b12,HR User,5d18766426fa41f4ae082d859c4d0576,Inventory Super,ac67f3503a4647dbaa7854f6fc5fb1fc,Inventory User,0fac4c9811ac449d819f1a7650154a5e,Logistic Super,c53e97b5a64c4e3e8fd10a7c90e2781e,Logistic User,9936345066614e4e8b3b328fe52d923d,Marketing User,160b79ab6130426f834a08819a1da8c1,Outlet Super,36e2ab59d0554eb9adece4c581eacb0c,Outlet User,3242ad7980ae4b299f89c7ebe1abde31,Roadshow Super,3772bab57dff41ca8183e0fe83ead231,Roadshow User,295730d6e6cb40dcb66d350418db222b,Servicing User,3a0466cba31e4a0593aa535a99034e67,Warehouse Super,90a41014e38043e08146f3a0820f7198,Warehouse User">
+>
+<[163]<page="lt_delivery_current_gst@ogawaa5.alb">
+<action="allow">
+<groups="">
+>
+<[164]<page="sales_order@ogawaa5.alb">
+<action="allow">
+<groups="">
+>
+<[165]<page="cerdit_note_return@ogawaa5.alb">
+<action="allow">
+<groups="">
+>
+<[166]<page="tax_invoice_delivery@ogawaa5.alb">
+<action="allow">
+<groups="">
+>
+<[167]<page="cerdit_note_vc@ogawaa5.alb">
+<action="allow">
+<groups="">
+>
+<[168]<page="tax_invoice_MYreprint@ogawaa5.alb">
+<action="allow">
+<groups="">
+>
+<[169]<page="tax_invoice_deliveryrep@ogawaa5.alb">
+<action="allow">
+<groups="">
+>
+<[170]<page="reprint_tax_invoice_cod.a5wcmp">
+<action="login">
+<groups="5b66c7f9329a4e098b991f86f36a620e,Administrators,8aa79376fcfd45a3aafc06ad57c8130f,Back-Office Super,f88e055164974b2c9673eec691112f8b,Back-Office User,078a44a3eadd43778f2193c7544235f5,HR Super,340150b8a9ae4de7a96d49a34e2f1b12,HR User,5d18766426fa41f4ae082d859c4d0576,Inventory Super,ac67f3503a4647dbaa7854f6fc5fb1fc,Inventory User,0fac4c9811ac449d819f1a7650154a5e,Logistic Super,c53e97b5a64c4e3e8fd10a7c90e2781e,Logistic User,9936345066614e4e8b3b328fe52d923d,Marketing User,160b79ab6130426f834a08819a1da8c1,Outlet Super,36e2ab59d0554eb9adece4c581eacb0c,Outlet User,3242ad7980ae4b299f89c7ebe1abde31,Roadshow Super,3772bab57dff41ca8183e0fe83ead231,Roadshow User,295730d6e6cb40dcb66d350418db222b,Servicing User,3a0466cba31e4a0593aa535a99034e67,Warehouse Super,90a41014e38043e08146f3a0820f7198,Warehouse User">
+>
+<[171]<page="tax_invoice_MYreprint1@ogawaa5.alb">
+<action="allow">
+<groups="">
+>
+<[172]<page="reprint_tax_invoice.a5wcmp">
+<action="login">
+<groups="5b66c7f9329a4e098b991f86f36a620e,Administrators,8aa79376fcfd45a3aafc06ad57c8130f,Back-Office Super,f88e055164974b2c9673eec691112f8b,Back-Office User,078a44a3eadd43778f2193c7544235f5,HR Super,340150b8a9ae4de7a96d49a34e2f1b12,HR User,5d18766426fa41f4ae082d859c4d0576,Inventory Super,ac67f3503a4647dbaa7854f6fc5fb1fc,Inventory User,0fac4c9811ac449d819f1a7650154a5e,Logistic Super,c53e97b5a64c4e3e8fd10a7c90e2781e,Logistic User,9936345066614e4e8b3b328fe52d923d,Marketing User,160b79ab6130426f834a08819a1da8c1,Outlet Super,36e2ab59d0554eb9adece4c581eacb0c,Outlet User,3242ad7980ae4b299f89c7ebe1abde31,Roadshow Super,3772bab57dff41ca8183e0fe83ead231,Roadshow User,295730d6e6cb40dcb66d350418db222b,Servicing User,3a0466cba31e4a0593aa535a99034e67,Warehouse Super,90a41014e38043e08146f3a0820f7198,Warehouse User">
+>
+<[173]<page="reprint_taxinvoice_front.a5wcmp">
+<action="login">
+<groups="5b66c7f9329a4e098b991f86f36a620e,Administrators,8aa79376fcfd45a3aafc06ad57c8130f,Back-Office Super,f88e055164974b2c9673eec691112f8b,Back-Office User,078a44a3eadd43778f2193c7544235f5,HR Super,340150b8a9ae4de7a96d49a34e2f1b12,HR User,5d18766426fa41f4ae082d859c4d0576,Inventory Super,ac67f3503a4647dbaa7854f6fc5fb1fc,Inventory User,0fac4c9811ac449d819f1a7650154a5e,Logistic Super,c53e97b5a64c4e3e8fd10a7c90e2781e,Logistic User,9936345066614e4e8b3b328fe52d923d,Marketing User,160b79ab6130426f834a08819a1da8c1,Outlet Super,36e2ab59d0554eb9adece4c581eacb0c,Outlet User,3242ad7980ae4b299f89c7ebe1abde31,Roadshow Super,3772bab57dff41ca8183e0fe83ead231,Roadshow User,295730d6e6cb40dcb66d350418db222b,Servicing User,3a0466cba31e4a0593aa535a99034e67,Warehouse Super,90a41014e38043e08146f3a0820f7198,Warehouse User">
+>
+<[174]<page="lt_delivery_current_gst1@ogawaa5.alb">
+<action="allow">
+<groups="">
+>
+<[175]<page="cerdit_note_settldiscrep@ogawaa5.alb">
+<action="allow">
+<groups="">
+>
+<[176]<page="cerdit_note_vcreprint@ogawaa5.alb">
+<action="allow">
+<groups="">
+>
+<[177]<page="sbo_salesitem_backend.a5wcmp">
+<action="login">
+<groups="5b66c7f9329a4e098b991f86f36a620e,Administrators,8aa79376fcfd45a3aafc06ad57c8130f,Back-Office Super,f88e055164974b2c9673eec691112f8b,Back-Office User,078a44a3eadd43778f2193c7544235f5,HR Super,340150b8a9ae4de7a96d49a34e2f1b12,HR User,5d18766426fa41f4ae082d859c4d0576,Inventory Super,ac67f3503a4647dbaa7854f6fc5fb1fc,Inventory User,0fac4c9811ac449d819f1a7650154a5e,Logistic Super,c53e97b5a64c4e3e8fd10a7c90e2781e,Logistic User,9936345066614e4e8b3b328fe52d923d,Marketing User,160b79ab6130426f834a08819a1da8c1,Outlet Super,36e2ab59d0554eb9adece4c581eacb0c,Outlet User,3242ad7980ae4b299f89c7ebe1abde31,Roadshow Super,3772bab57dff41ca8183e0fe83ead231,Roadshow User,295730d6e6cb40dcb66d350418db222b,Servicing User,3a0466cba31e4a0593aa535a99034e67,Warehouse Super,90a41014e38043e08146f3a0820f7198,Warehouse User">
+>
+<[178]<page="sbo_outlet.a5wcmp">
+<action="login">
+<groups="5b66c7f9329a4e098b991f86f36a620e,Administrators,8aa79376fcfd45a3aafc06ad57c8130f,Back-Office Super,f88e055164974b2c9673eec691112f8b,Back-Office User,078a44a3eadd43778f2193c7544235f5,HR Super,340150b8a9ae4de7a96d49a34e2f1b12,HR User,5d18766426fa41f4ae082d859c4d0576,Inventory Super,ac67f3503a4647dbaa7854f6fc5fb1fc,Inventory User,0fac4c9811ac449d819f1a7650154a5e,Logistic Super,c53e97b5a64c4e3e8fd10a7c90e2781e,Logistic User,9936345066614e4e8b3b328fe52d923d,Marketing User,160b79ab6130426f834a08819a1da8c1,Outlet Super,36e2ab59d0554eb9adece4c581eacb0c,Outlet User,3242ad7980ae4b299f89c7ebe1abde31,Roadshow Super,3772bab57dff41ca8183e0fe83ead231,Roadshow User,295730d6e6cb40dcb66d350418db222b,Servicing User,3a0466cba31e4a0593aa535a99034e67,Warehouse Super,90a41014e38043e08146f3a0820f7198,Warehouse User">
+>
+<[179]<page="full_order_listing1.a5wcmp">
+<action="login">
+<groups="5b66c7f9329a4e098b991f86f36a620e,Administrators,8aa79376fcfd45a3aafc06ad57c8130f,Back-Office Super,f88e055164974b2c9673eec691112f8b,Back-Office User,078a44a3eadd43778f2193c7544235f5,HR Super,340150b8a9ae4de7a96d49a34e2f1b12,HR User,5d18766426fa41f4ae082d859c4d0576,Inventory Super,ac67f3503a4647dbaa7854f6fc5fb1fc,Inventory User,0fac4c9811ac449d819f1a7650154a5e,Logistic Super,c53e97b5a64c4e3e8fd10a7c90e2781e,Logistic User,9936345066614e4e8b3b328fe52d923d,Marketing User,160b79ab6130426f834a08819a1da8c1,Outlet Super,36e2ab59d0554eb9adece4c581eacb0c,Outlet User,3242ad7980ae4b299f89c7ebe1abde31,Roadshow Super,3772bab57dff41ca8183e0fe83ead231,Roadshow User,295730d6e6cb40dcb66d350418db222b,Servicing User,3a0466cba31e4a0593aa535a99034e67,Warehouse Super,90a41014e38043e08146f3a0820f7198,Warehouse User">
+>
+<[180]<page="full_listing.a5wcmp">
+<action="login">
+<groups="5b66c7f9329a4e098b991f86f36a620e,Administrators,8aa79376fcfd45a3aafc06ad57c8130f,Back-Office Super,f88e055164974b2c9673eec691112f8b,Back-Office User,078a44a3eadd43778f2193c7544235f5,HR Super,340150b8a9ae4de7a96d49a34e2f1b12,HR User,5d18766426fa41f4ae082d859c4d0576,Inventory Super,ac67f3503a4647dbaa7854f6fc5fb1fc,Inventory User,0fac4c9811ac449d819f1a7650154a5e,Logistic Super,c53e97b5a64c4e3e8fd10a7c90e2781e,Logistic User,9936345066614e4e8b3b328fe52d923d,Marketing User,160b79ab6130426f834a08819a1da8c1,Outlet Super,36e2ab59d0554eb9adece4c581eacb0c,Outlet User,3242ad7980ae4b299f89c7ebe1abde31,Roadshow Super,3772bab57dff41ca8183e0fe83ead231,Roadshow User,295730d6e6cb40dcb66d350418db222b,Servicing User,3a0466cba31e4a0593aa535a99034e67,Warehouse Super,90a41014e38043e08146f3a0820f7198,Warehouse User">
+>
+<[181]<page="full_order.a5wcmp">
+<action="login">
+<groups="5b66c7f9329a4e098b991f86f36a620e,Administrators,8aa79376fcfd45a3aafc06ad57c8130f,Back-Office Super,f88e055164974b2c9673eec691112f8b,Back-Office User,078a44a3eadd43778f2193c7544235f5,HR Super,340150b8a9ae4de7a96d49a34e2f1b12,HR User,5d18766426fa41f4ae082d859c4d0576,Inventory Super,ac67f3503a4647dbaa7854f6fc5fb1fc,Inventory User,0fac4c9811ac449d819f1a7650154a5e,Logistic Super,c53e97b5a64c4e3e8fd10a7c90e2781e,Logistic User,9936345066614e4e8b3b328fe52d923d,Marketing User,160b79ab6130426f834a08819a1da8c1,Outlet Super,36e2ab59d0554eb9adece4c581eacb0c,Outlet User,3242ad7980ae4b299f89c7ebe1abde31,Roadshow Super,3772bab57dff41ca8183e0fe83ead231,Roadshow User,295730d6e6cb40dcb66d350418db222b,Servicing User,3a0466cba31e4a0593aa535a99034e67,Warehouse Super,90a41014e38043e08146f3a0820f7198,Warehouse User">
+>
+<[182]<page="sbo_outlet_logistic.a5wcmp">
+<action="login">
+<groups="5b66c7f9329a4e098b991f86f36a620e,Administrators,8aa79376fcfd45a3aafc06ad57c8130f,Back-Office Super,f88e055164974b2c9673eec691112f8b,Back-Office User,078a44a3eadd43778f2193c7544235f5,HR Super,340150b8a9ae4de7a96d49a34e2f1b12,HR User,5d18766426fa41f4ae082d859c4d0576,Inventory Super,ac67f3503a4647dbaa7854f6fc5fb1fc,Inventory User,0fac4c9811ac449d819f1a7650154a5e,Logistic Super,c53e97b5a64c4e3e8fd10a7c90e2781e,Logistic User,9936345066614e4e8b3b328fe52d923d,Marketing User,160b79ab6130426f834a08819a1da8c1,Outlet Super,36e2ab59d0554eb9adece4c581eacb0c,Outlet User,3242ad7980ae4b299f89c7ebe1abde31,Roadshow Super,3772bab57dff41ca8183e0fe83ead231,Roadshow User,295730d6e6cb40dcb66d350418db222b,Servicing User,3a0466cba31e4a0593aa535a99034e67,Warehouse Super,90a41014e38043e08146f3a0820f7198,Warehouse User">
+>
+<[183]<page="sbo_outlet_warehouse.a5wcmp">
+<action="login">
+<groups="5b66c7f9329a4e098b991f86f36a620e,Administrators,8aa79376fcfd45a3aafc06ad57c8130f,Back-Office Super,f88e055164974b2c9673eec691112f8b,Back-Office User,078a44a3eadd43778f2193c7544235f5,HR Super,340150b8a9ae4de7a96d49a34e2f1b12,HR User,5d18766426fa41f4ae082d859c4d0576,Inventory Super,ac67f3503a4647dbaa7854f6fc5fb1fc,Inventory User,0fac4c9811ac449d819f1a7650154a5e,Logistic Super,c53e97b5a64c4e3e8fd10a7c90e2781e,Logistic User,9936345066614e4e8b3b328fe52d923d,Marketing User,160b79ab6130426f834a08819a1da8c1,Outlet Super,36e2ab59d0554eb9adece4c581eacb0c,Outlet User,3242ad7980ae4b299f89c7ebe1abde31,Roadshow Super,3772bab57dff41ca8183e0fe83ead231,Roadshow User,295730d6e6cb40dcb66d350418db222b,Servicing User,3a0466cba31e4a0593aa535a99034e67,Warehouse Super,90a41014e38043e08146f3a0820f7198,Warehouse User">
+>
+<[184]<page="sales_order_logistic_cod_front.a5wcmp">
+<action="login">
+<groups="5b66c7f9329a4e098b991f86f36a620e,Administrators,8aa79376fcfd45a3aafc06ad57c8130f,Back-Office Super,f88e055164974b2c9673eec691112f8b,Back-Office User,078a44a3eadd43778f2193c7544235f5,HR Super,340150b8a9ae4de7a96d49a34e2f1b12,HR User,5d18766426fa41f4ae082d859c4d0576,Inventory Super,ac67f3503a4647dbaa7854f6fc5fb1fc,Inventory User,0fac4c9811ac449d819f1a7650154a5e,Logistic Super,c53e97b5a64c4e3e8fd10a7c90e2781e,Logistic User,9936345066614e4e8b3b328fe52d923d,Marketing User,160b79ab6130426f834a08819a1da8c1,Outlet Super,36e2ab59d0554eb9adece4c581eacb0c,Outlet User,3242ad7980ae4b299f89c7ebe1abde31,Roadshow Super,3772bab57dff41ca8183e0fe83ead231,Roadshow User,295730d6e6cb40dcb66d350418db222b,Servicing User,3a0466cba31e4a0593aa535a99034e67,Warehouse Super,90a41014e38043e08146f3a0820f7198,Warehouse User">
+>
+<[185]<page="full_order_listing.a5wcmp">
+<action="login">
+<groups="5b66c7f9329a4e098b991f86f36a620e,Administrators,8aa79376fcfd45a3aafc06ad57c8130f,Back-Office Super,f88e055164974b2c9673eec691112f8b,Back-Office User,078a44a3eadd43778f2193c7544235f5,HR Super,340150b8a9ae4de7a96d49a34e2f1b12,HR User,5d18766426fa41f4ae082d859c4d0576,Inventory Super,ac67f3503a4647dbaa7854f6fc5fb1fc,Inventory User,0fac4c9811ac449d819f1a7650154a5e,Logistic Super,c53e97b5a64c4e3e8fd10a7c90e2781e,Logistic User,9936345066614e4e8b3b328fe52d923d,Marketing User,160b79ab6130426f834a08819a1da8c1,Outlet Super,36e2ab59d0554eb9adece4c581eacb0c,Outlet User,3242ad7980ae4b299f89c7ebe1abde31,Roadshow Super,3772bab57dff41ca8183e0fe83ead231,Roadshow User,295730d6e6cb40dcb66d350418db222b,Servicing User,3a0466cba31e4a0593aa535a99034e67,Warehouse Super,90a41014e38043e08146f3a0820f7198,Warehouse User">
+>
+<[186]<page="Grn_report.a5wcmp">
+<action="login">
+<groups="5b66c7f9329a4e098b991f86f36a620e,Administrators,8aa79376fcfd45a3aafc06ad57c8130f,Back-Office Super,f88e055164974b2c9673eec691112f8b,Back-Office User,078a44a3eadd43778f2193c7544235f5,HR Super,340150b8a9ae4de7a96d49a34e2f1b12,HR User,5d18766426fa41f4ae082d859c4d0576,Inventory Super,ac67f3503a4647dbaa7854f6fc5fb1fc,Inventory User,0fac4c9811ac449d819f1a7650154a5e,Logistic Super,c53e97b5a64c4e3e8fd10a7c90e2781e,Logistic User,9936345066614e4e8b3b328fe52d923d,Marketing User,160b79ab6130426f834a08819a1da8c1,Outlet Super,36e2ab59d0554eb9adece4c581eacb0c,Outlet User,3242ad7980ae4b299f89c7ebe1abde31,Roadshow Super,3772bab57dff41ca8183e0fe83ead231,Roadshow User,295730d6e6cb40dcb66d350418db222b,Servicing User,3a0466cba31e4a0593aa535a99034e67,Warehouse Super,90a41014e38043e08146f3a0820f7198,Warehouse User">
+>
+<[187]<page="OutstadingPayment_report.a5wcmp">
+<action="login">
+<groups="5b66c7f9329a4e098b991f86f36a620e,Administrators,8aa79376fcfd45a3aafc06ad57c8130f,Back-Office Super,f88e055164974b2c9673eec691112f8b,Back-Office User,078a44a3eadd43778f2193c7544235f5,HR Super,340150b8a9ae4de7a96d49a34e2f1b12,HR User,5d18766426fa41f4ae082d859c4d0576,Inventory Super,ac67f3503a4647dbaa7854f6fc5fb1fc,Inventory User,0fac4c9811ac449d819f1a7650154a5e,Logistic Super,c53e97b5a64c4e3e8fd10a7c90e2781e,Logistic User,9936345066614e4e8b3b328fe52d923d,Marketing User,160b79ab6130426f834a08819a1da8c1,Outlet Super,36e2ab59d0554eb9adece4c581eacb0c,Outlet User,3242ad7980ae4b299f89c7ebe1abde31,Roadshow Super,3772bab57dff41ca8183e0fe83ead231,Roadshow User,295730d6e6cb40dcb66d350418db222b,Servicing User,3a0466cba31e4a0593aa535a99034e67,Warehouse Super,90a41014e38043e08146f3a0820f7198,Warehouse User">
+>
+<[188]<page="gRN_report@ogawaa5.alb">
+<action="allow">
+<groups="">
+>
+<[189]<page="outstanding_payment_repo@ogawaa5.alb">
+<action="allow">
+<groups="">
+>
+<[190]<page="fullorderlisting.a5wcmp">
+<action="login">
+<groups="5b66c7f9329a4e098b991f86f36a620e,Administrators,8aa79376fcfd45a3aafc06ad57c8130f,Back-Office Super,f88e055164974b2c9673eec691112f8b,Back-Office User,078a44a3eadd43778f2193c7544235f5,HR Super,340150b8a9ae4de7a96d49a34e2f1b12,HR User,5d18766426fa41f4ae082d859c4d0576,Inventory Super,ac67f3503a4647dbaa7854f6fc5fb1fc,Inventory User,0fac4c9811ac449d819f1a7650154a5e,Logistic Super,c53e97b5a64c4e3e8fd10a7c90e2781e,Logistic User,9936345066614e4e8b3b328fe52d923d,Marketing User,160b79ab6130426f834a08819a1da8c1,Outlet Super,36e2ab59d0554eb9adece4c581eacb0c,Outlet User,3242ad7980ae4b299f89c7ebe1abde31,Roadshow Super,3772bab57dff41ca8183e0fe83ead231,Roadshow User,295730d6e6cb40dcb66d350418db222b,Servicing User,3a0466cba31e4a0593aa535a99034e67,Warehouse Super,90a41014e38043e08146f3a0820f7198,Warehouse User">
+>
+<[191]<page="sbo_outlet_full.a5wcmp">
+<action="login">
+<groups="5b66c7f9329a4e098b991f86f36a620e,Administrators,8aa79376fcfd45a3aafc06ad57c8130f,Back-Office Super,f88e055164974b2c9673eec691112f8b,Back-Office User,078a44a3eadd43778f2193c7544235f5,HR Super,340150b8a9ae4de7a96d49a34e2f1b12,HR User,5d18766426fa41f4ae082d859c4d0576,Inventory Super,ac67f3503a4647dbaa7854f6fc5fb1fc,Inventory User,0fac4c9811ac449d819f1a7650154a5e,Logistic Super,c53e97b5a64c4e3e8fd10a7c90e2781e,Logistic User,9936345066614e4e8b3b328fe52d923d,Marketing User,160b79ab6130426f834a08819a1da8c1,Outlet Super,36e2ab59d0554eb9adece4c581eacb0c,Outlet User,3242ad7980ae4b299f89c7ebe1abde31,Roadshow Super,3772bab57dff41ca8183e0fe83ead231,Roadshow User,295730d6e6cb40dcb66d350418db222b,Servicing User,3a0466cba31e4a0593aa535a99034e67,Warehouse Super,90a41014e38043e08146f3a0820f7198,Warehouse User">
+>
+<[192]<page="loginapp.a5w">
+<action="allow">
+<groups="">
+>
+<[193]<page="sales_item_payment_report.a5wcmp">
+<action="login">
+<groups="5b66c7f9329a4e098b991f86f36a620e,Administrators,8aa79376fcfd45a3aafc06ad57c8130f,Back-Office Super,f88e055164974b2c9673eec691112f8b,Back-Office User,078a44a3eadd43778f2193c7544235f5,HR Super,340150b8a9ae4de7a96d49a34e2f1b12,HR User,5d18766426fa41f4ae082d859c4d0576,Inventory Super,ac67f3503a4647dbaa7854f6fc5fb1fc,Inventory User,0fac4c9811ac449d819f1a7650154a5e,Logistic Super,c53e97b5a64c4e3e8fd10a7c90e2781e,Logistic User,9936345066614e4e8b3b328fe52d923d,Marketing User,160b79ab6130426f834a08819a1da8c1,Outlet Super,36e2ab59d0554eb9adece4c581eacb0c,Outlet User,3242ad7980ae4b299f89c7ebe1abde31,Roadshow Super,3772bab57dff41ca8183e0fe83ead231,Roadshow User,295730d6e6cb40dcb66d350418db222b,Servicing User,3a0466cba31e4a0593aa535a99034e67,Warehouse Super,90a41014e38043e08146f3a0820f7198,Warehouse User">
+>
+<[194]<page="sales_item_payment_rpt@ogawaa5.alb">
+<action="allow">
+<groups="">
+>
+<[195]<page="stock_count_confirm.a5wcmp">
+<action="login">
+<groups="5b66c7f9329a4e098b991f86f36a620e,Administrators,8aa79376fcfd45a3aafc06ad57c8130f,Back-Office Super,f88e055164974b2c9673eec691112f8b,Back-Office User,078a44a3eadd43778f2193c7544235f5,HR Super,340150b8a9ae4de7a96d49a34e2f1b12,HR User,5d18766426fa41f4ae082d859c4d0576,Inventory Super,ac67f3503a4647dbaa7854f6fc5fb1fc,Inventory User,0fac4c9811ac449d819f1a7650154a5e,Logistic Super,c53e97b5a64c4e3e8fd10a7c90e2781e,Logistic User,9936345066614e4e8b3b328fe52d923d,Marketing User,160b79ab6130426f834a08819a1da8c1,Outlet Super,36e2ab59d0554eb9adece4c581eacb0c,Outlet User,3242ad7980ae4b299f89c7ebe1abde31,Roadshow Super,3772bab57dff41ca8183e0fe83ead231,Roadshow User,295730d6e6cb40dcb66d350418db222b,Servicing User,3a0466cba31e4a0593aa535a99034e67,Warehouse Super,90a41014e38043e08146f3a0820f7198,Warehouse User">
+>
+<[196]<page="sales_order_reprint@ogawaa5.alb">
+<action="allow">
+<groups="">
+>
+<[197]<page="discount_control.a5wcmp">
+<action="login">
+<groups="5b66c7f9329a4e098b991f86f36a620e,Administrators,8aa79376fcfd45a3aafc06ad57c8130f,Back-Office Super,f88e055164974b2c9673eec691112f8b,Back-Office User,078a44a3eadd43778f2193c7544235f5,HR Super,340150b8a9ae4de7a96d49a34e2f1b12,HR User,5d18766426fa41f4ae082d859c4d0576,Inventory Super,ac67f3503a4647dbaa7854f6fc5fb1fc,Inventory User,0fac4c9811ac449d819f1a7650154a5e,Logistic Super,c53e97b5a64c4e3e8fd10a7c90e2781e,Logistic User,9936345066614e4e8b3b328fe52d923d,Marketing User,160b79ab6130426f834a08819a1da8c1,Outlet Super,36e2ab59d0554eb9adece4c581eacb0c,Outlet User,3242ad7980ae4b299f89c7ebe1abde31,Roadshow Super,3772bab57dff41ca8183e0fe83ead231,Roadshow User,295730d6e6cb40dcb66d350418db222b,Servicing User,3a0466cba31e4a0593aa535a99034e67,Warehouse Super,90a41014e38043e08146f3a0820f7198,Warehouse User">
+>
+<[198]<page="refund_tax_table.a5wcmp">
+<action="login">
+<groups="5b66c7f9329a4e098b991f86f36a620e,Administrators,8aa79376fcfd45a3aafc06ad57c8130f,Back-Office Super,f88e055164974b2c9673eec691112f8b,Back-Office User,078a44a3eadd43778f2193c7544235f5,HR Super,340150b8a9ae4de7a96d49a34e2f1b12,HR User,5d18766426fa41f4ae082d859c4d0576,Inventory Super,ac67f3503a4647dbaa7854f6fc5fb1fc,Inventory User,0fac4c9811ac449d819f1a7650154a5e,Logistic Super,c53e97b5a64c4e3e8fd10a7c90e2781e,Logistic User,9936345066614e4e8b3b328fe52d923d,Marketing User,160b79ab6130426f834a08819a1da8c1,Outlet Super,36e2ab59d0554eb9adece4c581eacb0c,Outlet User,3242ad7980ae4b299f89c7ebe1abde31,Roadshow Super,3772bab57dff41ca8183e0fe83ead231,Roadshow User,295730d6e6cb40dcb66d350418db222b,Servicing User,3a0466cba31e4a0593aa535a99034e67,Warehouse Super,90a41014e38043e08146f3a0820f7198,Warehouse User">
+>
+<[199]<page="template_OITW.a5wcmp">
+<action="login">
+<groups="5b66c7f9329a4e098b991f86f36a620e,Administrators,8aa79376fcfd45a3aafc06ad57c8130f,Back-Office Super,f88e055164974b2c9673eec691112f8b,Back-Office User,078a44a3eadd43778f2193c7544235f5,HR Super,340150b8a9ae4de7a96d49a34e2f1b12,HR User,5d18766426fa41f4ae082d859c4d0576,Inventory Super,ac67f3503a4647dbaa7854f6fc5fb1fc,Inventory User,0fac4c9811ac449d819f1a7650154a5e,Logistic Super,c53e97b5a64c4e3e8fd10a7c90e2781e,Logistic User,9936345066614e4e8b3b328fe52d923d,Marketing User,160b79ab6130426f834a08819a1da8c1,Outlet Super,36e2ab59d0554eb9adece4c581eacb0c,Outlet User,3242ad7980ae4b299f89c7ebe1abde31,Roadshow Super,3772bab57dff41ca8183e0fe83ead231,Roadshow User,295730d6e6cb40dcb66d350418db222b,Servicing User,3a0466cba31e4a0593aa535a99034e67,Warehouse Super,90a41014e38043e08146f3a0820f7198,Warehouse User">
+>
+<[200]<page="sbo_oitm.a5wcmp">
+<action="login">
+<groups="5b66c7f9329a4e098b991f86f36a620e,Administrators,8aa79376fcfd45a3aafc06ad57c8130f,Back-Office Super,f88e055164974b2c9673eec691112f8b,Back-Office User,078a44a3eadd43778f2193c7544235f5,HR Super,340150b8a9ae4de7a96d49a34e2f1b12,HR User,5d18766426fa41f4ae082d859c4d0576,Inventory Super,ac67f3503a4647dbaa7854f6fc5fb1fc,Inventory User,0fac4c9811ac449d819f1a7650154a5e,Logistic Super,c53e97b5a64c4e3e8fd10a7c90e2781e,Logistic User,9936345066614e4e8b3b328fe52d923d,Marketing User,160b79ab6130426f834a08819a1da8c1,Outlet Super,36e2ab59d0554eb9adece4c581eacb0c,Outlet User,3242ad7980ae4b299f89c7ebe1abde31,Roadshow Super,3772bab57dff41ca8183e0fe83ead231,Roadshow User,295730d6e6cb40dcb66d350418db222b,Servicing User,3a0466cba31e4a0593aa535a99034e67,Warehouse Super,90a41014e38043e08146f3a0820f7198,Warehouse User">
+>
+<[201]<page="template_OITW@ogawaa5.alb">
+<action="allow">
+<groups="">
+>
+<[202]<page="credit_note_edit@ogawaa5.alb">
+<action="allow">
+<groups="">
+>
+<[203]<page="lt_CN_Item@ogawaa5.alb">
+<action="allow">
+<groups="">
+>
+<[204]<page="credit_note_edit_reprint@ogawaa5.alb">
+<action="allow">
+<groups="">
+>
+<[205]<page="inventory_movement_report.a5wcmp">
+<action="login">
+<groups="5b66c7f9329a4e098b991f86f36a620e,Administrators,8aa79376fcfd45a3aafc06ad57c8130f,Back-Office Super,f88e055164974b2c9673eec691112f8b,Back-Office User,078a44a3eadd43778f2193c7544235f5,HR Super,340150b8a9ae4de7a96d49a34e2f1b12,HR User,5d18766426fa41f4ae082d859c4d0576,Inventory Super,ac67f3503a4647dbaa7854f6fc5fb1fc,Inventory User,0fac4c9811ac449d819f1a7650154a5e,Logistic Super,c53e97b5a64c4e3e8fd10a7c90e2781e,Logistic User,9936345066614e4e8b3b328fe52d923d,Marketing User,160b79ab6130426f834a08819a1da8c1,Outlet Super,36e2ab59d0554eb9adece4c581eacb0c,Outlet User,3242ad7980ae4b299f89c7ebe1abde31,Roadshow Super,3772bab57dff41ca8183e0fe83ead231,Roadshow User,295730d6e6cb40dcb66d350418db222b,Servicing User,3a0466cba31e4a0593aa535a99034e67,Warehouse Super,90a41014e38043e08146f3a0820f7198,Warehouse User">
+>
+<[206]<page="inventory_movement@ogawaa5.alb">
+<action="allow">
+<groups="">
+>
+<[207]<page="cn.a5wcmp">
+<action="login">
+<groups="5b66c7f9329a4e098b991f86f36a620e,Administrators,8aa79376fcfd45a3aafc06ad57c8130f,Back-Office Super,f88e055164974b2c9673eec691112f8b,Back-Office User,078a44a3eadd43778f2193c7544235f5,HR Super,340150b8a9ae4de7a96d49a34e2f1b12,HR User,5d18766426fa41f4ae082d859c4d0576,Inventory Super,ac67f3503a4647dbaa7854f6fc5fb1fc,Inventory User,0fac4c9811ac449d819f1a7650154a5e,Logistic Super,c53e97b5a64c4e3e8fd10a7c90e2781e,Logistic User,9936345066614e4e8b3b328fe52d923d,Marketing User,160b79ab6130426f834a08819a1da8c1,Outlet Super,36e2ab59d0554eb9adece4c581eacb0c,Outlet User,3242ad7980ae4b299f89c7ebe1abde31,Roadshow Super,3772bab57dff41ca8183e0fe83ead231,Roadshow User,295730d6e6cb40dcb66d350418db222b,Servicing User,3a0466cba31e4a0593aa535a99034e67,Warehouse Super,90a41014e38043e08146f3a0820f7198,Warehouse User">
+>
+<[208]<page="itdelivery_current@ogawaa5.alb">
+<action="allow">
+<groups="">
+>
+<[209]<page="itdeliverycurrent@ogawaa5.alb">
+<action="allow">
+<groups="">
+>
+<[210]<page="stock_movement_rpt@ogawaa5.alb">
+<action="allow">
+<groups="">
+>
+<[211]<page="weekly@ogawaa5.alb">
+<action="allow">
+<groups="">
+>
+<[212]<page="transfer_pick_listrep@ogawaa5.alb">
+<action="allow">
+<groups="">
+>
+<[213]<page="cerdit_note_return_cn@ogawaa5.alb">
+<action="allow">
+<groups="">
+>
+<[214]<page="transferselect_outlet.a5wcmp">
+<action="login">
+<groups="5b66c7f9329a4e098b991f86f36a620e,Administrators,8aa79376fcfd45a3aafc06ad57c8130f,Back-Office Super,f88e055164974b2c9673eec691112f8b,Back-Office User,078a44a3eadd43778f2193c7544235f5,HR Super,340150b8a9ae4de7a96d49a34e2f1b12,HR User,5d18766426fa41f4ae082d859c4d0576,Inventory Super,ac67f3503a4647dbaa7854f6fc5fb1fc,Inventory User,0fac4c9811ac449d819f1a7650154a5e,Logistic Super,c53e97b5a64c4e3e8fd10a7c90e2781e,Logistic User,9936345066614e4e8b3b328fe52d923d,Marketing User,160b79ab6130426f834a08819a1da8c1,Outlet Super,36e2ab59d0554eb9adece4c581eacb0c,Outlet User,3242ad7980ae4b299f89c7ebe1abde31,Roadshow Super,3772bab57dff41ca8183e0fe83ead231,Roadshow User,295730d6e6cb40dcb66d350418db222b,Servicing User,3a0466cba31e4a0593aa535a99034e67,Warehouse Super,90a41014e38043e08146f3a0820f7198,Warehouse User">
+>
+<[215]<page="transferselect.a5wcmp">
+<action="login">
+<groups="5b66c7f9329a4e098b991f86f36a620e,Administrators,8aa79376fcfd45a3aafc06ad57c8130f,Back-Office Super,f88e055164974b2c9673eec691112f8b,Back-Office User,078a44a3eadd43778f2193c7544235f5,HR Super,340150b8a9ae4de7a96d49a34e2f1b12,HR User,5d18766426fa41f4ae082d859c4d0576,Inventory Super,ac67f3503a4647dbaa7854f6fc5fb1fc,Inventory User,0fac4c9811ac449d819f1a7650154a5e,Logistic Super,c53e97b5a64c4e3e8fd10a7c90e2781e,Logistic User,9936345066614e4e8b3b328fe52d923d,Marketing User,160b79ab6130426f834a08819a1da8c1,Outlet Super,36e2ab59d0554eb9adece4c581eacb0c,Outlet User,3242ad7980ae4b299f89c7ebe1abde31,Roadshow Super,3772bab57dff41ca8183e0fe83ead231,Roadshow User,295730d6e6cb40dcb66d350418db222b,Servicing User,3a0466cba31e4a0593aa535a99034e67,Warehouse Super,90a41014e38043e08146f3a0820f7198,Warehouse User">
+>
+<[216]<page="lt_CN_Item1@ogawaa5.alb">
+<action="login">
+<groups="5b66c7f9329a4e098b991f86f36a620e,Administrators,8aa79376fcfd45a3aafc06ad57c8130f,Back-Office Super,f88e055164974b2c9673eec691112f8b,Back-Office User,078a44a3eadd43778f2193c7544235f5,HR Super,340150b8a9ae4de7a96d49a34e2f1b12,HR User,5d18766426fa41f4ae082d859c4d0576,Inventory Super,ac67f3503a4647dbaa7854f6fc5fb1fc,Inventory User,0fac4c9811ac449d819f1a7650154a5e,Logistic Super,c53e97b5a64c4e3e8fd10a7c90e2781e,Logistic User,9936345066614e4e8b3b328fe52d923d,Marketing User,160b79ab6130426f834a08819a1da8c1,Outlet Super,36e2ab59d0554eb9adece4c581eacb0c,Outlet User,3242ad7980ae4b299f89c7ebe1abde31,Roadshow Super,3772bab57dff41ca8183e0fe83ead231,Roadshow User,295730d6e6cb40dcb66d350418db222b,Servicing User,3a0466cba31e4a0593aa535a99034e67,Warehouse Super,90a41014e38043e08146f3a0820f7198,Warehouse User">
+>
+>
